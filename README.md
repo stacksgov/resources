@@ -13,6 +13,7 @@ interorganizational Settings](https://www.zora.uzh.ch/id/eprint/160378/1/ICIS_Bl
 - [What Is Quadratic Voting?](https://towardsdatascience.com/what-is-quadratic-voting-4f81805d5a06)
 - [The key ingredients to a better blockchain, Part IV: Constitution](https://www.etherean.org/blockchain/community/governance/2019/11/18/key-ingredients-better-blockchain-part-iv-constitution.html)
 - [The key ingredients to a better blockchain, Part V: Governance](https://www.etherean.org/blockchain/governance/2020/01/06/key-ingredients-better-blockchain-part-v-governance.html)
+- [Vitalik Buterin Discusses On-chain Governance](https://www.youtube.com/watch?v=w-CH_5il9aU)
 
 ## Stacks governance
 
