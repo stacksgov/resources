@@ -25,4 +25,8 @@ Resources related to governance of the Stacks blockchain.
 
 ## Stacks governance
 
-- [Stacks Foundation: Developing Governance for Blockstack](https://forum.blockstack.org/t/stacks-foundation-developing-governance-for-blockstack/10335) on the Blockstack community forum
+### Blockstack Community Forum
+
+- 2020/02/07: [Stacks Foundation: Developing Governance for Blockstack](https://forum.blockstack.org/t/stacks-foundation-developing-governance-for-blockstack/10335)
+- 2020/02/19: [Who should be eligible to participate in governance?](https://forum.blockstack.org/t/who-should-be-eligible-to-participate-in-governance/10386)
+- 2020/02/19: [Community Governance Survey](https://forum.blockstack.org/t/community-governance-survey/10387)
