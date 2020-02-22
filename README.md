@@ -18,7 +18,7 @@ Resources related to governance of the Stacks blockchain.
 
 ### Videos
 
-- [Blockchain Governance Youtube playlist](https://www.youtube.com/playlist?list=PLpNeGhwVBcha8itBSQlUoeMy_6EtTeoVd) curated by @dant
+- [Blockchain Governance Youtube playlist](https://www.youtube.com/playlist?list=PLpNeGhwVBcha8itBSQlUoeMy_6EtTeoVd) curated by @dantrevino
 - [Radical Markets: Fireside Chat: Glen Weyl and Jaron Lanier](https://youtu.be/R4XBAwKInig)
 - [Vitalik Buterin Discusses On-chain Governance](https://www.youtube.com/watch?v=w-CH_5il9aU)
 
