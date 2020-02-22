@@ -1,4 +1,4 @@
-# resources
+# Resources
 
 Resources related to governance of the Stacks blockchain.
 
