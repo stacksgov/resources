@@ -15,6 +15,7 @@ Resources related to governance of the Stacks blockchain.
 ### Documents
 
 - [Consensus through Blockchains: Exploring Governance across interorganizational Settings](https://www.zora.uzh.ch/id/eprint/160378/1/ICIS_Blockchain_Governance.pdf) from University of Zurich
+- [Basins of Attraction for Generative Justice](https://www.researchgate.net/publication/274832746_Basins_of_Attraction_for_Generative_Justice)
 
 ### Videos
 
