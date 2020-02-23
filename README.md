@@ -1,4 +1,4 @@
-# resources
+# Resources
 
 Resources related to governance of the Stacks blockchain.
 
@@ -16,6 +16,8 @@ interorganizational Settings](https://www.zora.uzh.ch/id/eprint/160378/1/ICIS_Bl
 - [Vitalik Buterin Discusses On-chain Governance](https://www.youtube.com/watch?v=w-CH_5il9aU)
 
 ## Stacks governance
+
+See [Governance Calls](calls/README.md) for resources related to governance calls.
 
 - [Stacks Foundation: Developing Governance for Blockstack](https://forum.blockstack.org/t/stacks-foundation-developing-governance-for-blockstack/10335) on the Blockstack community forum
 - [Getting Started with Governance](https://forum.blockstack.org/t/getting-started-with-governance/10380) with a compilation of statements so far (until Feb 2020) on the Blockstack community forum
