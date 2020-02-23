@@ -18,3 +18,4 @@ interorganizational Settings](https://www.zora.uzh.ch/id/eprint/160378/1/ICIS_Bl
 ## Stacks governance
 
 - [Stacks Foundation: Developing Governance for Blockstack](https://forum.blockstack.org/t/stacks-foundation-developing-governance-for-blockstack/10335) on the Blockstack community forum
+- [Getting Started with Governance](https://forum.blockstack.org/t/getting-started-with-governance/10380) with a compilation of statements so far (until Feb 2020) on the Blockstack community forum
