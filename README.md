@@ -14,6 +14,12 @@ interorganizational Settings](https://www.zora.uzh.ch/id/eprint/160378/1/ICIS_Bl
 - [The key ingredients to a better blockchain, Part IV: Constitution](https://www.etherean.org/blockchain/community/governance/2019/11/18/key-ingredients-better-blockchain-part-iv-constitution.html)
 - [The key ingredients to a better blockchain, Part V: Governance](https://www.etherean.org/blockchain/governance/2020/01/06/key-ingredients-better-blockchain-part-v-governance.html)
 - [Vitalik Buterin Discusses On-chain Governance](https://www.youtube.com/watch?v=w-CH_5il9aU)
+- ["The invisible politics of Bitcoin: governance crisis of a decentralised infrastructure" by Primavera De Filippi, Benjamin Loveluck](https://policyreview.info/articles/analysis/invisible-politics-bitcoin-governance-crisis-decentralised-infrastructure)
+
+### Commons, Consensus, decision-making
+
+- [Consensus Decision-making as a Research Method for Generative Justice: empirical practices from a money-less economy in Chiapas, Mexico](https://www.researchgate.net/publication/311853527_Consensus_Decision-making_as_a_Research_Method_for_Generative_Justice_empirical_practices_from_a_money-less_economy_in_Chiapas_Mexico)
+- [Moneyless economics and non-hierarchical exchange values in Chiapas, Mexico](https://www.researchgate.net/publication/325172729_Moneyless_economics_and_non-hierarchical_exchange_values_in_Chiapas_Mexico)
 
 ## Stacks governance
 
