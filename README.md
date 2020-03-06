@@ -38,6 +38,13 @@ Resources related to governance of the Stacks blockchain.
 
 See [Governance Calls](calls/README.md) for resources related to governance calls.
 
+### Github Repositories
+
+- [updates](https://github.com/stacksgov/updates): updates regularly to share the latest progress of the governance project with the community
+- [resources](https://github.com/stacksgov/resources): this page of links, resources, and info on working group calls
+- [survey](https://github.com/stacksgov/survey):  we’re planning to conduct a governance survey, inspired by a similar survey conducted in the Ethereum community last year. Learn more about the survey, the goals of the survey, and how to contribute, in [this forum thread](https://forum.blockstack.org/t/community-governance-survey/10387)
+- [pm](https://github.com/stacksgov/pm): project management board related to all areas above
+
 ### Blockstack Community Forum
 
 - 2020/02/07: [Stacks Foundation: Developing Governance for Blockstack](https://forum.blockstack.org/t/stacks-foundation-developing-governance-for-blockstack/10335)
