@@ -2,6 +2,22 @@
 
 Resources related to governance of the Stacks blockchain.
 
+<!-- TOC -->
+
+- [Stacks governance](#stacks-governance)
+  - [Get Involved!](#get-involved)
+  - [Governance Calls](#governance-calls)
+  - [Github Repositories](#github-repositories)
+  - [Blockstack Community Forum](#blockstack-community-forum)
+- [General governance](#general-governance)
+  - [Articles / Websites](#articles--websites)
+  - [Documents](#documents)
+  - [Videos](#videos)
+  - [Commons, Consensus, decision-making](#commons-consensus-decision-making)
+- [Licensing](#licensing)
+
+<!-- /TOC -->
+
 ## Stacks governance
 
 ### Get Involved!
