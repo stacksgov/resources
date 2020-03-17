@@ -4,16 +4,18 @@ Resources related to governance of the Stacks blockchain.
 
 <!-- TOC -->
 
-- [Stacks governance](#stacks-governance)
+- [Stacks Governance](#stacks-governance)
   - [Get Involved!](#get-involved)
   - [Governance Calls](#governance-calls)
   - [Github Repositories](#github-repositories)
   - [Blockstack Community Forum](#blockstack-community-forum)
-- [General governance](#general-governance)
+- [General Blockchain Governance](#general-blockchain-governance)
   - [Articles / Websites](#articles--websites)
   - [Documents](#documents)
   - [Videos](#videos)
-  - [Commons, Consensus, decision-making](#commons-consensus-decision-making)
+- [Other Governance Resources](#other-governance-resources)
+  - [Open Source Software Examples](#open-source-software-examples)
+  - [Commons, Consensus, and Decision-making](#commons-consensus-and-decision-making)
 - [Licensing](#licensing)
 
 <!-- /TOC -->
