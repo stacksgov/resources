@@ -18,7 +18,7 @@ Resources related to governance of the Stacks blockchain.
 
 <!-- /TOC -->
 
-## Stacks governance
+## Stacks Governance
 
 ### Get Involved!
 
@@ -44,7 +44,7 @@ See [Governance Calls](calls/README.md) for resources related to governance call
 - 2020/02/19: [Who should be eligible to participate in governance?](https://forum.blockstack.org/t/who-should-be-eligible-to-participate-in-governance/10386)
 - 2020/02/19: [Community Governance Survey](https://forum.blockstack.org/t/community-governance-survey/10387)
 
-## General governance
+## General Blockchain Governance
 
 ### Articles / Websites
 
@@ -69,7 +69,28 @@ See [Governance Calls](calls/README.md) for resources related to governance call
 - [Vitalik Buterin Discusses On-chain Governance](https://www.youtube.com/watch?v=w-CH_5il9aU)
 - [Balaji Srinivasan 15:13-20:48 Curation and collaboration in decentralized and centralized communities](https://youtu.be/A2K5OSMbV40?t=913)
 
-### Commons, Consensus, decision-making
+## Other Governance Resources
+
+### Open Source Software Examples
+
+- [6 open governance questions every project needs to answer](https://opensource.com/article/20/2/open-source-projects-governance)
+
+> 1. Who makes the decisions?
+> 2. How are maintainers added?
+> 3. Who owns the rights to the domain?
+> 4. Who owns the rights to the trademarks?
+> 5. How are those things governed?
+> 6. Who owns how the build system works?
+
+- [Apache Software Foundation: The Apache Way](https://www.apache.org/theapacheway/index.html)
+- [Open Source Guides: Leadership and Governance](https://opensource.guide/leadership-and-governance/)
+- [Cloud Native Computing Foundation Policy Repo](https://github.com/cncf/foundation)
+- [OpenStack Technical Committee Decisions](https://opendev.org/openstack/governance/)
+- [Electron repository for governance issues and documents](https://github.com/electron/governance)
+- [International Standards Organization (ISO) structure and governance](https://www.iso.org/structure.html)
+
+### Commons, Consensus, and Decision-making
+
 - [An Introduction to Generative Justice](https://www.researchgate.net/publication/311811471_An_Introduction_to_Generative_Justice)
 - [Consensus Decision-making as a Research Method for Generative Justice: empirical practices from a money-less economy in Chiapas, Mexico](https://www.researchgate.net/publication/311853527_Consensus_Decision-making_as_a_Research_Method_for_Generative_Justice_empirical_practices_from_a_money-less_economy_in_Chiapas_Mexico)
 - [Moneyless economics and non-hierarchical exchange values in Chiapas, Mexico](https://www.researchgate.net/publication/325172729_Moneyless_economics_and_non-hierarchical_exchange_values_in_Chiapas_Mexico)
