@@ -19,6 +19,7 @@ Blockstack Governance - Community Call 2020/03/11
 - [Agenda &amp; Discussion Items](https://github.com/stacksgov/pm/issues/5)
 - [Video Recording](https://youtu.be/d7cGndifjR0)
 - [Unedited Call Notes](https://github.com/stacksgov/resources/issues/12)
+- [List of questions about the Foundation](https://github.com/stacksgov/pm/issues/11)
 
 ## 2020-03-18 Stacks Governance Call #4
 
