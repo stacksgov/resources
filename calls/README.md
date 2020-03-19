@@ -1,34 +1,9 @@
 # Community Calls
 
-## 2020-02-13 Stacks Governance Call #1 - Introduction
-
-Blockstack Governance - Community Call 2020/02/13
-- [Presentation Slides](20200213_community_call_001.pdf)
-- [Video Recording](https://youtu.be/GilQ9qU4Sa0)
-
-## 2020-03-02 Stacks Governance Call #2
-
-Blockstack Governance - Community Call 2020/03/02
-- [Agenda &amp; Discussion Items](https://github.com/stacksgov/pm/issues/3)
-- [Video Recording](https://youtu.be/jAEHyq4TKeI)
-- [Brief summary](https://github.com/stacksgov/pm/issues/3#issuecomment-593482885)
-
-## 2020-03-11 Stacks Governance Call #3
-
-Blockstack Governance - Community Call 2020/03/11
-- [Agenda &amp; Discussion Items](https://github.com/stacksgov/pm/issues/5)
-- [Video Recording](https://youtu.be/d7cGndifjR0)
-- [Unedited Call Notes](https://github.com/stacksgov/resources/issues/12)
-- [List of questions about the Foundation](https://github.com/stacksgov/pm/issues/11)
-
-## 2020-03-18 Stacks Governance Call #4
-
-Blockstack Governance - Community Call 2020/03/18
-- [Agenda &amp; Discussion Items](https://github.com/stacksgov/pm/issues/9)
-- [Video Recording](https://youtu.be/u8lZsVFCFtc)
-- [Unedited Call Notes](https://github.com/stacksgov/resources/issues/19)
-
-## 2020-03-25 Stacks Governance Call #5 - Upcoming
-
-Blockstack Governance - Community Call 2020/03/25
-- [Agenda &amp; Discussion Items](https://github.com/stacksgov/pm/issues/16)
+| No   | Date       | Agenda  | Video | Notes | Docs |
+| ---- | ---------- | ------- | ----- | ----- | ---- |
+| 0005 | 2020-03-25  | [Agenda](https://github.com/stacksgov/pm/issues/16)  | TBD  | TBD  | TBD  |
+| 0004 | 2020-03-18 | [Agenda](https://github.com/stacksgov/pm/issues/9)  | [Video](https://youtu.be/u8lZsVFCFtc)  | [Notes](https://github.com/stacksgov/resources/issues/19)  | @dantrevino Presentation Slides / @blocks8 Foundation Notes |
+| 0003 | 2020-03-11 | [Agenda](https://github.com/stacksgov/pm/issues/5) | [Video](https://youtu.be/d7cGndifjR0)  | [Notes](https://github.com/stacksgov/resources/issues/12)  | [Foundation Questions](https://github.com/stacksgov/pm/issues/11)  |
+| 0002 | 2020-03-02 | [Agenda](https://github.com/stacksgov/pm/issues/3) | [Video](https://youtu.be/jAEHyq4TKeI)  | [Notes](https://github.com/stacksgov/pm/issues/3#issuecomment-593482885)  | n/a |
+| 0001 | 2020-02-13 | n/a | [Video](https://youtu.be/GilQ9qU4Sa0) | [TBD](https://github.com/stacksgov/resources/issues/16) | [Presentation Slides](20200213_community_call_001.pdf) |
