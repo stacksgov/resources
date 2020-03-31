@@ -111,6 +111,7 @@ See [Governance Calls](calls/README.md) for resources related to governance call
 - [Linux Foundation Bylaws](https://www.linuxfoundation.org/bylaws/)
 - [Mozilla Foundation Governance](https://www.mozilla.org/en-US/about/governance/)
 - [Open Source Guides: Leadership and Governance](https://opensource.guide/leadership-and-governance/)
+- [OpenJS Foundation Governance](https://openjsf.org/about/governance/)
 - [OpenStack Technical Committee Decisions](https://opendev.org/openstack/governance/)
 - [Python Language Governance](https://www.python.org/dev/peps/pep-0013/)
 - [Wikimedia Foundation About Page](https://wikimediafoundation.org/about/)
