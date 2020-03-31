@@ -97,12 +97,21 @@ See [Governance Calls](calls/README.md) for resources related to governance call
 > 5. How are those things governed?
 > 6. Who owns how the build system works?
 
+- [Code Forking, Governance, and Sustainability in Open Source Software](https://timreview.ca/article/644)
 - [Apache Software Foundation: The Apache Way](https://www.apache.org/theapacheway/index.html)
-- [Open Source Guides: Leadership and Governance](https://opensource.guide/leadership-and-governance/)
 - [Cloud Native Computing Foundation Policy Repo](https://github.com/cncf/foundation)
-- [OpenStack Technical Committee Decisions](https://opendev.org/openstack/governance/)
 - [Electron repository for governance issues and documents](https://github.com/electron/governance)
+- [Ghost.org Governance](https://ghost.org/docs/concepts/governance/)
+- [Internet Engineering Task Force (IETF) About Page](https://www.ietf.org/about/)
 - [International Standards Organization (ISO) structure and governance](https://www.iso.org/structure.html)
+- [Linux Foundation Bylaws](https://www.linuxfoundation.org/bylaws/)
+- [Mozilla Foundation Governance](https://www.mozilla.org/en-US/about/governance/)
+- [Open Source Guides: Leadership and Governance](https://opensource.guide/leadership-and-governance/)
+- [Open Stand: Global advocates for open standards &amp; technology development](https://open-stand.org/about-us/principles/)
+- [OpenStack Technical Committee Decisions](https://opendev.org/openstack/governance/)
+- [Python Language Governance](https://www.python.org/dev/peps/pep-0013/)
+- [Wikimedia Foundation About Page](https://wikimediafoundation.org/about/)
+- [World Wide Web Consortium (W3C) Mission](https://www.w3.org/Consortium/mission)
 
 ### Commons, Consensus, and Decision-making
 
