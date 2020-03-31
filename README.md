@@ -69,6 +69,13 @@ See [Governance Calls](calls/README.md) for resources related to governance call
 - [Consensus through Blockchains: Exploring Governance across interorganizational Settings](https://www.zora.uzh.ch/id/eprint/160378/1/ICIS_Blockchain_Governance.pdf) from University of Zurich
 - [Basins of Attraction for Generative Justice](https://www.researchgate.net/publication/274832746_Basins_of_Attraction_for_Generative_Justice)
 
+### Examples
+
+- [Zcash Foundation](https://www.zfnd.org/about/)
+- [Algorand Foundation](https://algorand.foundation/community)
+- [Ethereum Governance](https://docs.ethhub.io/ethereum-basics/governance/)
+- [Helium Governance](https://heliumchain.org/governance/)
+
 ### Videos
 
 - [Blockchain Governance Youtube playlist](https://www.youtube.com/playlist?list=PLpNeGhwVBcha8itBSQlUoeMy_6EtTeoVd) curated by @dantrevino
