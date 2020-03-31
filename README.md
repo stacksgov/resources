@@ -7,6 +7,7 @@ Resources related to governance of the Stacks blockchain.
 - [Stacks Governance](#stacks-governance)
   - [Get Involved!](#get-involved)
   - [Governance Calls](#governance-calls)
+  - [Interview Notes](#interview-notes)
   - [Github Repositories](#github-repositories)
   - [Blockstack Community Forum](#blockstack-community-forum)
 - [General Blockchain Governance](#general-blockchain-governance)
@@ -31,6 +32,10 @@ From [Stacks Governance Update #1 - 4 March, 2020](https://github.com/stacksgov/
 ### Governance Calls
 
 See [Governance Calls](calls/README.md) for resources related to governance calls.
+
+### Interview notes
+
+See [Interview Notes](interviews/README.md) for notes from one on one interviews with stakeholders about governance.
 
 ### Github Repositories
 
