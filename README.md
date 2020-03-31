@@ -122,6 +122,7 @@ See [Governance Calls](calls/README.md) for resources related to governance call
 - [Consensus Decision-making as a Research Method for Generative Justice: empirical practices from a money-less economy in Chiapas, Mexico](https://www.researchgate.net/publication/311853527_Consensus_Decision-making_as_a_Research_Method_for_Generative_Justice_empirical_practices_from_a_money-less_economy_in_Chiapas_Mexico)
 - [Moneyless economics and non-hierarchical exchange values in Chiapas, Mexico](https://www.researchgate.net/publication/325172729_Moneyless_economics_and_non-hierarchical_exchange_values_in_Chiapas_Mexico)
 - [Anti-Authoritarian Metrics: Recursivity as a strategy for post-capitalism](https://www.researchgate.net/publication/311853369_Anti-Authoritarian_Metrics_Recursivity_as_a_strategy_for_post-capitalism)
+- [Whitepaper (WIP) on Two Row Wampum Social Layer](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform)
 
 ## Licensing
 
