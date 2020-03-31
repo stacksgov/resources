@@ -86,7 +86,7 @@ See [Governance Calls](calls/README.md) for resources related to governance call
 
 ## Other Governance Resources
 
-### Open Source Software Examples
+### Open Source Software Articles
 
 - [6 open governance questions every project needs to answer](https://opensource.com/article/20/2/open-source-projects-governance)
 
@@ -98,6 +98,10 @@ See [Governance Calls](calls/README.md) for resources related to governance call
 > 6. Who owns how the build system works?
 
 - [Code Forking, Governance, and Sustainability in Open Source Software](https://timreview.ca/article/644)
+- [Open Stand: Global advocates for open standards &amp; technology development](https://open-stand.org/about-us/principles/)
+
+### Open Source Software Examples
+
 - [Apache Software Foundation: The Apache Way](https://www.apache.org/theapacheway/index.html)
 - [Cloud Native Computing Foundation Policy Repo](https://github.com/cncf/foundation)
 - [Electron repository for governance issues and documents](https://github.com/electron/governance)
@@ -107,7 +111,6 @@ See [Governance Calls](calls/README.md) for resources related to governance call
 - [Linux Foundation Bylaws](https://www.linuxfoundation.org/bylaws/)
 - [Mozilla Foundation Governance](https://www.mozilla.org/en-US/about/governance/)
 - [Open Source Guides: Leadership and Governance](https://opensource.guide/leadership-and-governance/)
-- [Open Stand: Global advocates for open standards &amp; technology development](https://open-stand.org/about-us/principles/)
 - [OpenStack Technical Committee Decisions](https://opendev.org/openstack/governance/)
 - [Python Language Governance](https://www.python.org/dev/peps/pep-0013/)
 - [Wikimedia Foundation About Page](https://wikimediafoundation.org/about/)
