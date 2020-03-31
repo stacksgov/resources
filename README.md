@@ -12,6 +12,7 @@ Resources related to governance of the Stacks blockchain.
 - [General Blockchain Governance](#general-blockchain-governance)
   - [Articles / Websites](#articles--websites)
   - [Documents](#documents)
+  - [Examples](#examples)
   - [Videos](#videos)
 - [Other Governance Resources](#other-governance-resources)
   - [Open Source Software Examples](#open-source-software-examples)
