@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The governance working group will be hosting regular community calls to update the community about the progress of the project, and to give everyone a chance to have their voice heard. An initial, introductory call was held on February 13, and future calls will be held every Wednesday at 7am PT/10am ET/2pm UTC/5pm CEST/10pm CST (please reach out on Discord if you'd like to be added to the recurring email invitation).
+The governance working group will be hosting regular community calls to update the community about the progress of the project, and to give everyone a chance to have their voice heard. The first call was held on February 13, and future calls will be held every Wednesday at 7am PT/10am New York time (please reach out on Discord if you'd like to be added to the recurring email invitation).
 
 ## Who can Attend
 
