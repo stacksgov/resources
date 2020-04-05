@@ -35,7 +35,7 @@ See [Governance Calls](calls/README.md) for resources related to governance call
 
 ### Interview notes
 
-See [Interview Notes](interviews/README.md) for notes from one on one interviews with stakeholders about governance.
+See [Interview Notes](interviews/) for notes from one on one interviews with stakeholders about governance.
 
 ### Github Repositories
 
