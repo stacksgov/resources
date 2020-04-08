@@ -20,11 +20,12 @@ Below is a list of all prior/completed calls, including links to their agenda, r
 
 | No   | Date       | Time | Agenda  | Video | Notes | Docs |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
-| 0007  | 2020-04-08 | 1400 UTC | TBD  | TBD  | TBD  |  TBD |
-| 0006 | 2020-04-01 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/19) / [Google Doc](https://docs.google.com/document/d/1Lr9zOLWO5Xtg31M-dKaVXREYcyQn_zCepwPlErD3pvg/edit) | [Video](https://youtu.be/ALeaUzwxTe8) | [Notes](https://github.com/whoabuddy/stacksgov-resources/blob/upd/calls/calls/notes/2020-04-01-Meeting-0006.md) | n/a |
-| 0005 | 2020-03-25 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/16)  | [Video](https://youtu.be/gpw6byKPeIw)  | [Notes](https://github.com/whoabuddy/stacksgov-resources/blob/upd/calls/calls/notes/2020-03-25-Meeting-0005.md)  | n/a  |
-| 0004 | 2020-03-18 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/9)  | [Video](https://youtu.be/u8lZsVFCFtc)  | [Notes](https://github.com/stacksgov/resources/issues/19)  | @dantrevino [Presentation Slides](https://slides.com/dantrevino/blockstack-governance) / @blocks8 Foundation Notes |
-| 0003 | 2020-03-11 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/5) | [Video](https://youtu.be/d7cGndifjR0)  | [Notes](https://github.com/stacksgov/resources/issues/12)  | [Foundation Questions](https://github.com/stacksgov/pm/issues/11)  |
+| 0008 | 2020-04-15 | 1400 UTC | TBD  | TBD  | TBD   |  TBD |
+| 0007 | 2020-04-08 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/24) | [Video](https://youtu.be/-5BrfFvPvD4) | [Notes](https://github.com/stacksgov/resources/blob/master/calls/notes/2020-04-08-Meeting-0007.md) | n/a |
+| 0006 | 2020-04-01 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/19) / [Google Doc](https://docs.google.com/document/d/1Lr9zOLWO5Xtg31M-dKaVXREYcyQn_zCepwPlErD3pvg/edit) | [Video](https://youtu.be/ALeaUzwxTe8) | [Notes](https://github.com/stacksgov/resources/blob/master/calls/notes/2020-04-01-Meeting-0006.md) | n/a |
+| 0005 | 2020-03-25 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/16)  | [Video](https://youtu.be/gpw6byKPeIw)  | [Notes](https://github.com/stacksgov/resources/blob/master/calls/notes/2020-03-25-Meeting-0005.md)  | n/a  |
+| 0004 | 2020-03-18 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/9)  | [Video](https://youtu.be/u8lZsVFCFtc)  | [Notes](https://github.com/stacksgov/resources/issues/19)  | @dantrevino [Presentation Slides](https://slides.com/dantrevino/blockstack-governance) / @blocks8 [Foundation Notes](https://docs.google.com/document/d/125MQTwpP9oooAUSES4U_HTcVJ02lVOR7A1IWEC3jh3g/edit?usp=sharing) |
+| 0003 | 2020-03-11 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/5) | [Video](https://youtu.be/d7cGndifjR0)  | [Notes](https://github.com/stacksgov/resources/issues/12)  | [Community Foundation Questions](https://github.com/stacksgov/pm/issues/11)  |
 | 0002 | 2020-03-02 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/3) | [Video](https://youtu.be/jAEHyq4TKeI)  | [Notes](https://github.com/stacksgov/pm/issues/3#issuecomment-593482885)  | n/a |
 | 0001 | 2020-02-13 | 1500 UTC | n/a | [Video](https://youtu.be/GilQ9qU4Sa0) | [TBD](https://github.com/stacksgov/resources/issues/16) | [Presentation Slides](20200213_community_call_001.pdf) |
 
