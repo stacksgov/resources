@@ -1,4 +1,4 @@
-sl# Community Calls
+# Community Calls
 
 ## Purpose
 
