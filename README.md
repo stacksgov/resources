@@ -7,6 +7,7 @@ Resources related to governance of the Stacks blockchain.
 - [Stacks Governance](#stacks-governance)
   - [Get Involved!](#get-involved)
   - [Governance Calls](#governance-calls)
+  - [Governance Survey](#governance-survey)
   - [Interview Notes](#interview-notes)
   - [Github Repositories](#github-repositories)
   - [Blockstack Community Forum](#blockstack-community-forum)
