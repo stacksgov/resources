@@ -48,6 +48,7 @@ See [Interview Notes](interviews/) for notes from one on one interviews with sta
 - [updates](https://github.com/stacksgov/updates): updates regularly to share the latest progress of the governance project with the community
 - [resources](https://github.com/stacksgov/resources): this page of links, resources, and info on working group calls
 - [pm](https://github.com/stacksgov/pm/projects/1): project management board related to all areas above
+- [proposals](https://github.com/stacksgov/proposals): stores miscellaneous governance proposals, and we are still determining the role of this repository and these proposals relative to the [existing SIP process](https://github.com/blockstack/stacks-blockchain/blob/master/sip/sip-000-stacks-improvement-proposal-process.md)
 
 ### Blockstack Community Forum
 
