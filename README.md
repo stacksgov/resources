@@ -35,7 +35,11 @@ From [Stacks Governance Update #1 - 4 March, 2020](https://github.com/stacksgov/
 
 See [Governance Calls](calls/README.md) for resources related to governance calls.
 
-### Interview notes
+### Governance Survey
+
+We are conducting a governance survey, inspired by a similar survey conducted in the Ethereum community last year. Learn more about the survey, the goals of the survey, and how to contribute in [this forum thread](https://forum.blockstack.org/t/community-governance-survey/10387) or in [this Github issue.](https://github.com/stacksgov/pm/issues/1)
+
+### Interview Notes
 
 See [Interview Notes](interviews/) for notes from one on one interviews with stakeholders about governance.
 
