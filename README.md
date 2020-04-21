@@ -7,6 +7,7 @@ Resources related to governance of the Stacks blockchain.
 - [Stacks Governance](#stacks-governance)
   - [Get Involved!](#get-involved)
   - [Governance Calls](#governance-calls)
+  - [Governance Survey](#governance-survey)
   - [Interview Notes](#interview-notes)
   - [Github Repositories](#github-repositories)
   - [Blockstack Community Forum](#blockstack-community-forum)
@@ -35,7 +36,11 @@ From [Stacks Governance Update #1 - 4 March, 2020](https://github.com/stacksgov/
 
 See [Governance Calls](calls/README.md) for resources related to governance calls.
 
-### Interview notes
+### Governance Survey
+
+We are conducting a governance survey, inspired by a similar survey conducted in the Ethereum community last year. Learn more about the survey, the goals of the survey, and how to contribute in [this forum thread](https://forum.blockstack.org/t/community-governance-survey/10387) or in [this Github issue](https://github.com/stacksgov/pm/issues/1).
+
+### Interview Notes
 
 See [Interview Notes](interviews/) for notes from one on one interviews with stakeholders about governance.
 
@@ -43,8 +48,8 @@ See [Interview Notes](interviews/) for notes from one on one interviews with sta
 
 - [updates](https://github.com/stacksgov/updates): updates regularly to share the latest progress of the governance project with the community
 - [resources](https://github.com/stacksgov/resources): this page of links, resources, and info on working group calls
-- [survey](https://github.com/stacksgov/survey):  we’re planning to conduct a governance survey, inspired by a similar survey conducted in the Ethereum community last year. Learn more about the survey, the goals of the survey, and how to contribute, in [this forum thread](https://forum.blockstack.org/t/community-governance-survey/10387)
 - [pm](https://github.com/stacksgov/pm/projects/1): project management board related to all areas above
+- [proposals](https://github.com/stacksgov/proposals): stores miscellaneous governance proposals, and we are still determining the role of this repository and these proposals relative to the [existing SIP process](https://github.com/blockstack/stacks-blockchain/blob/master/sip/sip-000-stacks-improvement-proposal-process.md)
 
 ### Blockstack Community Forum
 
