@@ -20,7 +20,8 @@ Below is a list of all prior/completed calls, including links to their agenda, r
 
 | No   | Date       | Time | Agenda  | Video | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
-| 0009 | 2020-04-22 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/31)  | TBD  | TBD   |  TBD |
+| 0010 | 2020-04-29 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/35)  | TBD  | TBD   |  TBD |
+| 0009 | 2020-04-22 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/31) | [Video](https://youtu.be/TwkrWMA7Eo0) | [Notes](https://github.com/stacksgov/resources/blob/master/calls/notes/2020-04-22-Meeting-0009.md) |  n/a |
 | 0008 | 2020-04-15 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/25)  | [Video](https://youtu.be/Pubkhn-reDk)  | [Notes](https://github.com/stacksgov/resources/blob/master/calls/notes/2020-04-15-Meeting-0008.md)   |  n/a |
 | 0007 | 2020-04-08 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/24) | [Video](https://youtu.be/-5BrfFvPvD4) | [Notes](https://github.com/stacksgov/resources/blob/master/calls/notes/2020-04-08-Meeting-0007.md) | n/a |
 | 0006 | 2020-04-01 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/19) / [Google Doc](https://docs.google.com/document/d/1Lr9zOLWO5Xtg31M-dKaVXREYcyQn_zCepwPlErD3pvg/edit) | [Video](https://youtu.be/ALeaUzwxTe8) | [Notes](https://github.com/stacksgov/resources/blob/master/calls/notes/2020-04-01-Meeting-0006.md) | n/a |
