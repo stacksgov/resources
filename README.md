@@ -57,6 +57,8 @@ See [Interview Notes](interviews/) for notes from one on one interviews with sta
 - 2020/02/18: [Getting Started with Governance](https://forum.blockstack.org/t/getting-started-with-governance/10380) with a compilation of statements so far (until Feb 2020)
 - 2020/02/19: [Who should be eligible to participate in governance?](https://forum.blockstack.org/t/who-should-be-eligible-to-participate-in-governance/10386)
 - 2020/02/19: [Community Governance Survey](https://forum.blockstack.org/t/community-governance-survey/10387)
+- 2020/04/28: [Participate in Blockstack Governance](https://forum.blockstack.org/t/participate-in-blockstack-governance-take-the-stacks-governance-survey/10742)
+- 2020/04/30: [Governance Working Group Update April 29, 2020](https://forum.blockstack.org/t/governance-working-group-update-april-29-2020/10754)
 
 ## General Blockchain Governance
 
