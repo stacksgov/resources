@@ -1,5 +1,7 @@
 # Resources
 
+The Stacks Foundation's mission is to deliver a user owned internet.  Find the Stacks Foundation on the web: [https://stacks.org](https://stacks.org) and Twitter: [@StacksOrg](https://twitter.com/StacksOrg)
+
 Resources related to governance of the Stacks blockchain.
 
 <!-- TOC -->
