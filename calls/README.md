@@ -20,8 +20,11 @@ Below is a list of all prior/completed calls, including links to their agenda, r
 
 | No   | Date       | Time | Agenda  | Video | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
-| 0013 | 2020-05-20 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/41) | TBD | TBD | TBD |
-| 0012 | 2020-05-13 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/39) | TBD | TBD | TBD |
+| 0016 | 2020-06-10 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/58) | Video | Notes | TBD |
+| 0015 | 2020-06-03 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/50) | [Video](https://youtu.be/5dISVmdBe3g) | Notes [(TBD)](https://github.com/stacksgov/pm/issues/57) | TBD |
+| 0014 | 2020-05-27 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/46) | [Video](https://youtu.be/SUASurbAyzI) | Notes [(TBD)](https://github.com/stacksgov/pm/issues/55) | TBD |
+| 0013 | 2020-05-20 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/41) | [Video](https://youtu.be/ULdXgtrjb-8) | Notes [(TBD)](https://github.com/stacksgov/pm/issues/47) | TBD |
+| 0012 | 2020-05-13 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/39) | [Video](https://youtu.be/daxesAKFa6I) | [Notes](https://github.com/stacksgov/resources/blob/master/calls/notes/2020-05-20-Meeting-0012.md) | TBD |
 | 0011 | 2020-05-06 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/37) | [Video](https://youtu.be/jCiJiifOYok) | [Notes](https://github.com/stacksgov/resources/blob/master/calls/notes/2020-05-06-Meeting-0011.md) | [SIP Proposal](https://docs.google.com/document/d/1huF3u6BlrEapbjw77wGp_lq3d3kC17ZugCalvpN8M3U/edit?usp=sharing) / [FabAcademy Meeting](https://paper.dropbox.com/doc/Meeting-wTomas-DiezPrimavera-Connection--AzeCC~olgxmajJhWv49zT9~NAg-vgftHgoR26II8R3CGpi4h) |
 | 0010 | 2020-04-29 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/35)  | [Video](https://youtu.be/f7nUMpUzu5E)  | [Notes](https://github.com/stacksgov/resources/blob/master/calls/notes/2020-04-29-Meeting-0010.md)   | n/a |
 | 0009 | 2020-04-22 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/31) | [Video](https://youtu.be/TwkrWMA7Eo0) | [Notes](https://github.com/stacksgov/resources/blob/master/calls/notes/2020-04-22-Meeting-0009.md) |  n/a |
