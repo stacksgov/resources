@@ -22,6 +22,7 @@ Below is a list of all prior/completed calls, including links to their agenda, r
 
 | No   | Date       | Time | Agenda  | Video | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
+| 0017 | 2020-06-17 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/61) | [Video](https://youtu.be/om6o81aB4t8) | [Notes](notes/2020-06-17-Meeting-0017.md) | n/a |
 | 0016 | 2020-06-10 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/58) | [Video](https://youtu.be/7j_0Xb3t0ck) | [Notes](notes/2020-06-10-Meeting-0016.md) | TBD |
 | 0015 | 2020-06-03 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/50) | [Video](https://youtu.be/5dISVmdBe3g) | Notes [(TBD)](https://github.com/stacksgov/pm/issues/57) | TBD |
 | 0014 | 2020-05-27 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/46) | [Video](https://youtu.be/SUASurbAyzI) | [Notes](notes/2020-05-27-Meeting-0014.md) | TBD |
