@@ -46,7 +46,8 @@ The engineering team holds regular public meetings to discuss the [Stacks 2.0 bl
 
 | No   | Date       | Time | Video | Notes |
 | ---- | ---------- | ---- | ----- | ----- |
-| 0004 | 2020-06-15 | 1500 UTC | TBD | TBD |
+| 0005 | 2020-06-22 | 1500 UTC | [Video](https://youtu.be/nR1ZhMBw_pg) | TBD |
+| 0004 | 2020-06-15 | 1500 UTC | [Video](https://youtu.be/6HWR4wPKtV0) | TBD |
 | 0003 | 2020-06-08 | 1500 UTC | [Video](https://youtu.be/byktpBjVYU0) | TBD |
 | 0002 | 2020-06-01 | 1500 UTC | [Video](https://youtu.be/ImUaan5kaU0) | TBD |
 | 0001 | 2020-05-26 | 1400 UTC | [Video](https://youtu.be/60JqCcCNEPg) | TBD |
