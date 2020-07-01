@@ -22,7 +22,7 @@ Below is a list of all prior/completed calls, including links to their agenda, r
 
 | No   | Date       | Time | Agenda  | Video | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
-| 0019  | 2020-07-01 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/71) | [Video](https://youtu.be/h7iShriQ3q0) | [Notes]() | @jcnelson [SIP-000 Slide Deck](https://docs.google.com/presentation/d/1k0VB5k5kVrSfib33yaq5n-ZGkrl1ueunqWj7eSKuVm8/edit#slide=id.g8b7270c087_0_48)  |
+| 0019  | 2020-07-01 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/71) | [Video](https://youtu.be/h7iShriQ3q0) | [Notes]() | @jcnelson [SIP-000 Slide Deck](https://docs.google.com/presentation/d/1k0VB5k5kVrSfib33yaq5n-ZGkrl1ueunqWj7eSKuVm8/edit#slide=id.g8b7270c087_0_48) |
 | 0018  | 2020-06-24 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/64) | [Video](https://youtu.be/o69zoNsP33w) | TBD | n/a |
 | 0017 | 2020-06-17 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/61) | [Video](https://youtu.be/om6o81aB4t8) | [Notes](notes/2020-06-17-Meeting-0017.md) | n/a |
 | 0016 | 2020-06-10 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/58) | [Video](https://youtu.be/7j_0Xb3t0ck) | [Notes](notes/2020-06-10-Meeting-0016.md) | TBD |
@@ -48,6 +48,7 @@ The engineering team holds regular public meetings to discuss the [Stacks 2.0 bl
 
 | No   | Date       | Time | Video | Notes |
 | ---- | ---------- | ---- | ----- | ----- |
+| 0006 | 2020-06-28 | 1500 UTC | [Video](https://youtu.be/w5EEL-4EkHw) | TBD |
 | 0005 | 2020-06-22 | 1500 UTC | [Video](https://youtu.be/nR1ZhMBw_pg) | TBD |
 | 0004 | 2020-06-15 | 1500 UTC | [Video](https://youtu.be/6HWR4wPKtV0) | TBD |
 | 0003 | 2020-06-08 | 1500 UTC | [Video](https://youtu.be/byktpBjVYU0) | TBD |
