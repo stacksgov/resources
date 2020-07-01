@@ -40,7 +40,7 @@ See [Governance Calls](calls/README.md) for resources related to governance call
 
 ### Governance Survey
 
-We are conducting a governance survey, inspired by a similar survey conducted in the Ethereum community last year. Learn more about the survey, the goals of the survey, and how to contribute in [this forum thread](https://forum.blockstack.org/t/community-governance-survey/10387) or in [this Github issue](https://github.com/stacksgov/pm/issues/1).
+In Q2 2020 we conducted a governance survey, inspired by a [similar survey](https://medium.com/coinmonks/ethereum-governance-survey-results-c67c11695f2a) conducted in the Ethereum community in 2019. Learn more about the survey, the goals of the survey, and how to contribute in [this forum thread](https://forum.blockstack.org/t/community-governance-survey/10387) or in [this Github issue](https://github.com/stacksgov/pm/issues/1). You can view the [archived survey results here](survey/).
 
 ### Interview Notes
 
