@@ -1,8 +1,17 @@
-# Resources
+# Stacks Governance - Resources
 
-The Stacks Foundation's mission is to deliver a user owned internet.  Find the Stacks Foundation on the web: [https://stacks.org](https://stacks.org) and Twitter: [@StacksOrg](https://twitter.com/StacksOrg)
+This respository contains a [vast list of resources](), documentation of [past community calls](), initial [stakeholder interviews](), and [community survey results]() related to governance of the Stacks blockchain.
 
-Resources related to governance of the Stacks blockchain.
+## Additional Outlets
+
+More information about the Stacks Foundation and their mission is to deliver a user owned internet can be found at the links below:
+
+- Website: https://stacks.org
+- Twitter: [@StacksOrg](https://twitter.com/StacksOrg)
+- Project Management: https://stacksgov.github.io/pm
+- Meeting Agendas: https://github.com/stacksgov/pm/issues?q=is%3Aissue+is%3Aopen+label%3Amtg-agenda
+
+## Table of Contents
 
 <!-- TOC -->
 
