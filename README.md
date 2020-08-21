@@ -1,6 +1,6 @@
 # Stacks Governance - Resources
 
-This respository contains a [vast list of research](./research), documentation of [past community calls](./calls), initial [stakeholder interviews](./interviews), and [community survey results](./survey) related to governance of the Stacks blockchain.
+This respository contains a [vast list of research](/research/README.md), documentation of [past community calls](/calls/README.md), initial [stakeholder interviews](/interviews/README.md), and [community survey results](/survey/README.md) related to governance of the Stacks blockchain.
 
 ## Additional Outlets
 
