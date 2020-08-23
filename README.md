@@ -4,7 +4,7 @@ This respository contains a [vast list of research](/research/README.md), docume
 
 ## Additional Outlets
 
-More information about the Stacks Foundation and their mission is to deliver a user owned internet can be found at the links below:
+More information about the Stacks Foundation and its mission can be found at the links below:
 
 - Website: https://stacks.org
 - Twitter: [@StacksOrg](https://twitter.com/StacksOrg)
