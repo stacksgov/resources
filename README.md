@@ -51,7 +51,7 @@ In Q2 2020 the community conducted a governance survey, inspired by a [similar s
 
 See [Governance Survey](survey/) for the archived survey results and analyses.
 
-## Interview Notes
+## Stakeholder Interviews
 
 In Q1 2020 Lane Rettig conducted one-on-one interviews with stakeholders about governance as part of a "listening campaign".
 
