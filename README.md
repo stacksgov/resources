@@ -31,7 +31,7 @@ More information about the Stacks Foundation and its mission can be found at the
 
 From [Stacks Governance Update #1 - 4 March, 2020](https://github.com/stacksgov/updates/blob/master/updates/20200304-update-001.md):
 
-> Stacks governance is a community-run initiative! As such, it cannot work without your help, and without the input of as many community members as possible. You do not need anyone’s permission to get involved and contribute to the initiative. The #governance working group channel on [Blockstack Discord](https://discordapp.com/invite/ny6wGkx) is a great place to begin getting involved, as many community members regularly share ideas, updates, and resources there. You can also find a number of topics under the [governance category](https://forum.blockstack.org/c/governance) on the Blockstack Community Forum which need your input.
+> Stacks governance is a community-run initiative! As such, it cannot work without your help, and without the input of as many community members as possible. You do not need anyone’s permission to get involved and contribute to the initiative. The #governance working group channel on [Blockstack Discord](https://discordapp.com/invite/ny6wGkx) is a great place to begin getting involved, as many community members regularly share ideas, updates, and resources there. You can also find a number of topics under the [governance category](https://forum.blockstack.org/c/Working-Groups/governance/) on the Blockstack Community Forum which need your input.
 
 ## Governance Calls
 
@@ -68,7 +68,7 @@ The [stacksgov organization](https://github.com/stacksgov) on GitHub contains re
 
 ## Blockstack Community Forum
 
-See the [Blockstack Forum - Governance Working Group category](https://forum.blockstack.org/c/Working-Groups/governance/46) for posts related to the initiative.
+See the [Blockstack Forum - Governance Working Group category](https://forum.blockstack.org/c/Working-Groups/governance/) for posts related to the initiative.
 
 # Licensing
 
