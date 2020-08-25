@@ -63,6 +63,7 @@ The [stacksgov organization](https://github.com/stacksgov) on GitHub contains re
 
 - [resources](https://stacksgov.github.io/resources): the content found here
 - [pm](https://stacksgov.github.io/pm): project boards, open issues, work streams, and meeting agendas
+- [community](https://github.com/stacksgov/community): community resources, ecosystem calls, systems, and related processes
 - [updates](https://github.com/stacksgov/updates): regularly published updates to share the latest progress of the governance project with the community
 - [proposals](https://github.com/stacksgov/proposals): stores miscellaneous governance proposals [as issues](https://github.com/stacksgov/proposals/issues) for consideration and potential adoption
 
