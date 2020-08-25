@@ -1,3 +1,5 @@
+# Stakeholder Interview Template
+
 This is the template that was used for the interviews. Note that not every interview included every question.
 
 * What’s your role in the project/community/ecosystem?
@@ -16,3 +18,9 @@ This is the template that was used for the interviews. Note that not every inter
 * What are your thoughts on App Mining?
 * How do we govern the Foundation? E.g. directors, to whom should it be accountable?
 * What else should I have asked you?
+
+# General Resources
+
+See [Stakeholder Interviews](https://stacksgov.github.io/resources/#/interviews/) for the list of one-of-one interviews.
+
+See [Stacks Governance Resources](https://stacksgov.github.io/resources/) for additional information related to governance of the Stacks blockchain.
