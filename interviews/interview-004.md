@@ -1,3 +1,5 @@
+# Stakeholder Interview 4
+
 *   What’s your role in the project/community/ecosystem?
     *   I stumbled upon the community and been struggling with trying to find my goal
     *   I see a vision I agree with, that aligns with my values
@@ -71,7 +73,7 @@
     *   The “multisig” idea is more appealing to me, and to a lot of people that want to be a part of the process or have a voice, whether through the Foundation or a different structure.
     *   As long as the Foundation is in alignment with community, you can have it, and Foundation, and other pieces down the road.
     *   Maybe there could be a third?
-    *   Wouldn’t necessarily change this 
+    *   Wouldn’t necessarily change this
     *   At a high level I agree with this structure. Based on my complete inexperience :)
 *   How would you like things to work in the future?
     *   PBC currently embraces this, and it’s something we want to consider part of governance: ability to allow for change. Everything is built on top of BTC but if we had to it could be changed to something else.
@@ -113,7 +115,7 @@
     *   We had some early notification on what Larry was up to with New Internet Labs (NIL) - what if you made a guild requirement open source, or something that had to be verified and checked off?
     *   I don’t want to duplicate any of the efforts done by NIL but I love the idea of analyzing something against a set of core values
     *   If it was a system that made sense as part of the ecosystem, it could be something the Foundation could make canonical, you could spin up your own app chain but have to qualify to be on the canonical list
-    *   What we’re learning in decentralization in governance applies to apps and biz models and everything else - we’re hacking the way things work originally 
+    *   What we’re learning in decentralization in governance applies to apps and biz models and everything else - we’re hacking the way things work originally
 *   How do we govern the Foundation? E.g. directors, to whom should it be accountable?
     *   I’m looking forward to watching this conversation play out
     *   Need to honor what the community wants
@@ -127,3 +129,9 @@
     *   I’m trying to do the same: hearing the community’s opinion rather than just sharing my own - I’m more interested in this collaborative nature.
     *   Silence on these calls is normal at this stage - and it means consensus on some level - “I agree and I have nothing to add."
     *   “Silence is one of the most beautiful tools we have."
+
+# General Resources
+
+See [Stakeholder Interviews](https://stacksgov.github.io/resources/#/interviews/) for the list of one-of-one interviews.
+
+See [Stacks Governance Resources](https://stacksgov.github.io/resources/) for additional information related to governance of the Stacks blockchain.

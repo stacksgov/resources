@@ -1,3 +1,5 @@
+# Stakeholder Interview 2
+
 *   What’s your role?
     *   Getting to know community well enough that I can develop effective strategies for growing the community and engaging/activating the community
     *   Blockstack has a really broad community of interested stakeholders, but for a while it operated like a brand community - a platform people were excited about, they came to us about features
@@ -21,7 +23,7 @@
     *   I’ve heard from community member, and I agree, this is an inclusive community, relative to other crypto communities
     *   We didn’t have regular community managers until last summer - so people were monitoring themselves - that’s pretty special
     *   Even I’m trying to work on having a formalized code of conduct, finding a way for community members to enforce that - we have some incidences of people being unpleasant - but people being outright unpleasant are new, trolling is new
-    *   Real community members don’t troll. They’ve taken the time to go through our docs and are focused on other things, i.e., building on Blockstack. 
+    *   Real community members don’t troll. They’ve taken the time to go through our docs and are focused on other things, i.e., building on Blockstack.
 *   How has governance run up to now?
     *   App mining - but this example carries across the project
         *   An idea that was heavily researched and developed by PBC team
@@ -123,3 +125,9 @@
     *   I’m very curious about that.
     *   Stakeholder theory - there’s some uptake on that idea in the community - but what expectations do community members have for decentralization? E.g., roles to grow into
     *   I often talk about decentralization as PBC members working more collaboratively with community members as if we’re on one big team - in a company you talk about sharing in profit, revenue, salary, etc. - and I think, what are the community members’ expectations?
+
+# General Resources
+
+See [Stakeholder Interviews](https://stacksgov.github.io/resources/#/interviews/) for the list of one-of-one interviews.
+
+See [Stacks Governance Resources](https://stacksgov.github.io/resources/) for additional information related to governance of the Stacks blockchain.

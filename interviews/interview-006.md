@@ -1,3 +1,5 @@
+# Stakeholder Interview 6
+
 *   What’s your role?
     *   I think I ticked almost all of the boxes in the survey. I feel like I’m part of the community, evangelist, app developer, and I have an opinion on a lot of things. I’m all over the place.
     *   I’m a full-time hobbyist.
@@ -71,7 +73,7 @@
     *   Let’s define what governance we’re talking about first
     *   App funding: means there’s a rough consensus around which apps are getting funded
     *   Core dev: dev is focusing on features that community and developers/miners need
-    *   Responsive 
+    *   Responsive
     *   Kinda hard to nail down more than that
 *   How do you get legitimacy/confidence/trust?
     *   Transparency
@@ -125,3 +127,9 @@
     *   Ideally we’d have a BDFL but that’s probably not gonna help us long term.
     *   It’s hard when you’re taking a public, VC-backed company and say “this is a public internet” - that’s a hugely difficult operation - it’s something I constantly go back and forth on. Do I really want a VC-owned internet? Hell no
     *   But we can set basic standards and use that money to do good things and start changing the conversation - privacy as default expectation - versus the assumption that I have to give all my info away
+
+# General Resources
+
+See [Stakeholder Interviews](https://stacksgov.github.io/resources/#/interviews/) for the list of one-of-one interviews.
+
+See [Stacks Governance Resources](https://stacksgov.github.io/resources/) for additional information related to governance of the Stacks blockchain.

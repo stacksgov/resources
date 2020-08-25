@@ -1,7 +1,9 @@
+# Stakeholder Interview 7
+
 *   What’s your role in the project/community/ecosystem?
     *   I work for PBC, evangelism + meetups
     *   I still think of myself as a community member, I try to be super transparent about all of our initiatives - this is one piece of feedback we got last year, that things are closed and the community don’t know what’s going on
-    *   Being transparent is important to the community but it’s difficult to do because our timeframe is so aggressive 
+    *   Being transparent is important to the community but it’s difficult to do because our timeframe is so aggressive
 *   How did you first get involved?
     *   Was familiar with the space since 2017, in 2018 I joined. Background in IT, was working on infrastructure, RedHat. Really boring, nothing revolutionary, nothing to brag about.
     *   I saw a YouTube video of Muneeb and Ryan, then went down the rabbit hole
@@ -150,4 +152,10 @@
         *   Fund the people who will build the tools around it, including the protocol itself
 *   Any final thoughts?
     *   I never talked about governance before, I really enjoyed this!
-    *   I’m excited about this and how it will move forward! 
+    *   I’m excited about this and how it will move forward!
+
+# General Resources
+
+See [Stakeholder Interviews](https://stacksgov.github.io/resources/#/interviews/) for the list of one-of-one interviews.
+
+See [Stacks Governance Resources](https://stacksgov.github.io/resources/) for additional information related to governance of the Stacks blockchain.

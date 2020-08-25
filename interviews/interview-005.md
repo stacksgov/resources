@@ -1,3 +1,5 @@
+# Stakeholder Interview 5
+
 *   What’s your role?
     *   Officially, maintainer of Android SDK, so my role is technical
         *   (we have an iOS SDK but Apple is pushing back on it, so the future is unclear)
@@ -140,3 +142,9 @@
 *   What else should I have asked you?
     *   I don’t have a lot of experience
     *   I like the Mozilla Foundation as a credible foundation, what they do, but I don’t know how its governance works
+
+# General Resources
+
+See [Stakeholder Interviews](https://stacksgov.github.io/resources/#/interviews/) for the list of one-of-one interviews.
+
+See [Stacks Governance Resources](https://stacksgov.github.io/resources/) for additional information related to governance of the Stacks blockchain.
