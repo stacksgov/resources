@@ -1,4 +1,4 @@
-# Governance Community Survey
+# Stacks Governance - Community Survey
 
 In Q2 2020 the community conducted a governance survey, inspired by a [similar survey](https://medium.com/coinmonks/ethereum-governance-survey-results-c67c11695f2a) conducted in the Ethereum community in 2019.
 
