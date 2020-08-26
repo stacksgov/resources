@@ -6,14 +6,14 @@ Learn more about the survey, its goals, and community contributions in [this for
 
 ## Survey Results
 
-- [full report of results](report.pdf ':ignore') - note that this does not include responses to open-ended questions
-- [raw results, anonymized and randomized (CSV)](results-anonymized-randomized.csv ':ignore') - full, raw results in CSV format (order randomized, and with identifying information removed)
-- [raw results, anonymized and randomized (XLSX)](results-anonymized-randomized.xlsx ':ignore') - the same thing in Excel format
+- [full report of results](/survey/report.pdf ':ignore') - note that this does not include responses to open-ended questions
+- [raw results, anonymized and randomized (CSV)](/survey/results-anonymized-randomized.csv ':ignore') - full, raw results in CSV format (order randomized, and with identifying information removed)
+- [raw results, anonymized and randomized (XLSX)](/survey/results-anonymized-randomized.xlsx ':ignore') - the same thing in Excel format
 
 ## Survey Analyses
 
-- [Lane's analysis of results](analysis.pdf ':ignore')
-- [dropoff analysis](dropoff-analysis.pdf ':ignore') (this is the percentage of respondents who stopped answering the survey after each question)
+- [Lane's analysis of results](/survey/analysis.pdf ':ignore')
+- [dropoff analysis](/survey/dropoff-analysis.pdf ':ignore') (this is the percentage of respondents who stopped answering the survey after each question)
 
 # General Resources
 
