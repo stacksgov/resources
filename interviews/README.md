@@ -1,4 +1,4 @@
-# One on one interview notes
+# Stacks Governance - Stakeholder Interviews
 
 This directory contains notes from one-on-one interviews conducted by @lrettig as part of the "listening campaign" during February and March, 2020.
 
@@ -11,3 +11,11 @@ This directory contains notes from one-on-one interviews conducted by @lrettig a
 - [Interview 7](/interviews/interview-007.md)
 
 It also includes an [interview template](/interviews/TEMPLATE.md).
+
+# General Resources
+
+See [Stacks Governance Resources](https://stacksgov.github.io/resources/) for additional information related to governance of the Stacks blockchain.
+
+# Licensing
+
+This repository and all contributions herein are licensed under [Creative Commons Zero v1.0 Universal](https://github.com/stacksgov/resources/blob/master/LICENSE). Please note that, by contributing to this repository, whether via commit, pull request, issue, comment, or in any other fashion, **you are explicitly agreeing that all of your contributions will fall under the same permissive license.**

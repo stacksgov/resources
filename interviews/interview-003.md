@@ -1,3 +1,5 @@
+# Stakeholder Interview 3
+
 *   What’s your role?
     *   I’m one of the core devs. I’ve been involved in design of blockchain, both consensus protocols and smart contract language
     *   I’m most involved in the Clarity language, esp. the implementation of the VM and static analysis patches
@@ -48,7 +50,7 @@
     *   It’s very much related to the impetus to leave. Analogy to real-world government: it’s good if it’s responsive enough that people don’t seek “extra-democratic means for resolving conflicts."
     *   Anything else?
         *   Transparency of decisions - that’s a fundamental tenet of good governance
-        *   When a decision is made, even if it’s one you disagree with, you can see how/why it was made, how it was achieved, and the motivation for that decision 
+        *   When a decision is made, even if it’s one you disagree with, you can see how/why it was made, how it was achieved, and the motivation for that decision
         *   When people think about doing governance in “automated fashion” like on-chain voting it’s somewhat wrongheaded because the important thing is that, when decisions are made, you understand how they’re being made
         *   The trap that people fall into with on-chain voting is that you get an audit trail but it can obscure what’s actually going on in a way that public board votes, etc. don’t obscure
 *   How do you get legitimacy/confidence/trust?
@@ -83,7 +85,7 @@
         *   There’s been a lot of community engagement and enforcement of the “correct operation of App Mining"
         *   Has a lot to do with transparency of the process
         *   Transparent components, e.g., how scores translated into rankings were continuously checked by the community: there was an incentive to do so because people checking were getting App Mining rewards - there were actually cases of errors being found
-    *   In some cases, designs have changed based on community feedback on, e.g., blockstack.JS and the Blockstack browser - they haven’t “radically changed the directions” of proposals but tweaks were made 
+    *   In some cases, designs have changed based on community feedback on, e.g., blockstack.JS and the Blockstack browser - they haven’t “radically changed the directions” of proposals but tweaks were made
 *   What’s gone well/not so well?
     *   The changes we’ve made over time have been towards our protocol gradually moving away from reliance on Bitcoin in a lot of ways
         *   We’ve “gradually devolved from Bitcoin"
@@ -114,3 +116,9 @@
     *   And a board member that represents the developers in some way
     *   If you look at how European company boards tend to work, they tend to have a board member that’s a union representative
     *   In the USA we tend to think of unions as a “counterbalance to boards” - it’s different in Europe
+
+# General Resources
+
+See [Stakeholder Interviews](https://stacksgov.github.io/resources/#/interviews/) for the list of one-of-one interviews.
+
+See [Stacks Governance Resources](https://stacksgov.github.io/resources/) for additional information related to governance of the Stacks blockchain.

@@ -1,3 +1,5 @@
+# Stakeholder Interview 1
+
 *   What is your role?
     *   People don’t usually pay attention to what I do as long as it works
     *   I give an occasional meetup talk often only 1/3 of audience understands
@@ -155,3 +157,9 @@
     *   The token is not meant to be money or replacement for money
     *   Do these things because they’re interesting or solve a problem not for money
     *   Token IS an AWS compute credit
+
+# General Resources
+
+See [Stakeholder Interviews](https://stacksgov.github.io/resources/#/interviews/) for the list of one-of-one interviews.
+
+See [Stacks Governance Resources](https://stacksgov.github.io/resources/) for additional information related to governance of the Stacks blockchain.
