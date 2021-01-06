@@ -2,18 +2,18 @@
 
 In Q2 2020 the community conducted a governance survey, inspired by a [similar survey](https://medium.com/coinmonks/ethereum-governance-survey-results-c67c11695f2a) conducted in the Ethereum community in 2019.
 
-Learn more about the survey, its goals, and community contributions in [this forum thread](https://forum.blockstack.org/t/community-governance-survey/10387) or in [this Github issue](https://github.com/stacksgov/pm/issues/1).
+Learn more about the survey, its goals, and community contributions in [this forum thread](https://forum.stacks.org/t/community-governance-survey/10387) or in [this Github issue](https://github.com/stacksgov/pm/issues/1).
 
 ## Survey Results
 
-- [full report of results](/survey/report.pdf ':ignore') - note that this does not include responses to open-ended questions
-- [raw results, anonymized and randomized (CSV)](/survey/results-anonymized-randomized.csv ':ignore') - full, raw results in CSV format (order randomized, and with identifying information removed)
-- [raw results, anonymized and randomized (XLSX)](/survey/results-anonymized-randomized.xlsx ':ignore') - the same thing in Excel format
+- [full report of results](https://stacksgov.github.io/resources/survey/report.pdf) - note that this does not include responses to open-ended questions
+- [raw results, anonymized and randomized (CSV)](https://stacksgov.github.io/resources/survey/results-anonymized-randomized.csv) - full, raw results in CSV format (order randomized, and with identifying information removed)
+- [raw results, anonymized and randomized (XLSX)](https://stacksgov.github.io/resources/survey/results-anonymized-randomized.xlsx) - the same thing in Excel format
 
 ## Survey Analyses
 
-- [Lane's analysis of results](/survey/analysis.pdf ':ignore')
-- [dropoff analysis](/survey/dropoff-analysis.pdf ':ignore') (this is the percentage of respondents who stopped answering the survey after each question)
+- [Lane's analysis of results](https://stacksgov.github.io/resources/survey/analysis.pdf)
+- [dropoff analysis](https://stacksgov.github.io/resources/survey/dropoff-analysis.pdf) (this is the percentage of respondents who stopped answering the survey after each question)
 
 # General Resources
 
