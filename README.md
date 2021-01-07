@@ -28,7 +28,7 @@ More information about the Stacks Foundation and its mission can be found at the
 - Website: https://stacks.org
 - Twitter: [@StacksOrg](https://twitter.com/StacksOrg)
 - Project Management: https://stacksgov.github.io/pm
-- Meeting Agendas: [on GitHub](https://github.com/stacksgov/pm/labels/Amtg-agenda)
+- Meeting Agendas: [on GitHub](https://github.com/stacksgov/pm/labels/mtg-agenda)
 
 # Resource List
 
