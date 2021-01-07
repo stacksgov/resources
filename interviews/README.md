@@ -2,15 +2,15 @@
 
 This directory contains notes from one-on-one interviews conducted by @lrettig as part of the "listening campaign" during February and March, 2020.
 
-- [Interview 1](/interviews/interview-001.md)
-- [Interview 2](/interviews/interview-002.md)
-- [Interview 3](/interviews/interview-003.md)
-- [Interview 4](/interviews/interview-004.md)
-- [Interview 5](/interviews/interview-005.md)
-- [Interview 6](/interviews/interview-006.md)
-- [Interview 7](/interviews/interview-007.md)
+- [Interview 1](https://stacksgov.github.io/resources/#/interviews/interview-001)
+- [Interview 2](https://stacksgov.github.io/resources/#/interviews/interview-002)
+- [Interview 3](https://stacksgov.github.io/resources/#/interviews/interview-003)
+- [Interview 4](https://stacksgov.github.io/resources/#/interviews/interview-004)
+- [Interview 5](https://stacksgov.github.io/resources/#/interviews/interview-005)
+- [Interview 6](https://stacksgov.github.io/resources/#/interviews/interview-006)
+- [Interview 7](https://stacksgov.github.io/resources/#/interviews/interview-007)
 
-It also includes an [interview template](/interviews/TEMPLATE.md).
+It also includes an [interview template](https://stacksgov.github.io/resources/#/interviews/TEMPLATE).
 
 # General Resources
 

@@ -2,7 +2,7 @@
 
 In the initial phases of developing the Governance Working Group, several articles, websites, and other items were collected as a reference. These were used as a starting point to developing the Stacks Foundation governance model, and continue to expand as time goes on.
 
-Updates are welcome via issue or pull request!
+Updates are welcome via issues in [stacksgov/pm](https://github.com/stacksgov/pm/issues) or via pull request!
 
 ## Table of Contents
 
