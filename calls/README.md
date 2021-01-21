@@ -24,8 +24,21 @@ Below is a list of all prior completed calls and related resources.
 
 | No   | Date       | Time | Agenda  | Video | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
-| 0019  | 2020-07-01 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/71) | [Video](https://youtu.be/h7iShriQ3q0) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-07-01-Meeting-0019) | @jcnelson [SIP-000 Slide Deck](https://docs.google.com/presentation/d/1k0VB5k5kVrSfib33yaq5n-ZGkrl1ueunqWj7eSKuVm8/edit#slide=id.g8b7270c087_0_48) |
-| 0018  | 2020-06-24 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/64) | [Video](https://youtu.be/o69zoNsP33w) | TBD | n/a |
+| 0032 | 2021-01-21 | 1900 UTC | [Agenda](https://github.com/stacksgov/pm/issues/127) | Video TBD | Notes TBD | n/a |
+| 0031 | 2021-01-07 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/121) | Video TBD | Notes TBD | n/a |
+| 0030 | 2020-12-17 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/120) | Video TBD | Notes TBD | n/a |
+| 0029 | 2020-12-03 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/118) | Video TBD | Notes TBD | n/a |
+| 0028 | 2020-11-19 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/113) | Video TBD | Notes TBD | n/a |
+| 0027 | 2020-11-05 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/105) | Video TBD | Notes TBD | [healthy ecosystem building from Ryan](https://www.youtube.com/watch?v=2Oy9LyVThlg)] |
+| 0026 | 2020-10-22 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/99) | Video TBD | Notes TBD | n/a |
+| 0025 | 2020-10-08 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/98) | Video TBD | Notes TBD | [grant proposal](https://paper.dropbox.com/doc/Stacksgov-Grant-Proposal--A9FticUOo4gxWoWRzabNARnkAg-ke9qLunt5n7WwWwZTV56I) |
+| 0024 | 2020-09-23 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/96) | Video TBD | Notes TBD | n/a |
+| 0023 | 2020-09-10 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/95) | Video TBD | Notes TBD | n/a |
+| 0022 | 2020-08-20 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/94) | Video TBD | Notes TBD | n/a |
+| 0021 | 2020-08-06 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/84) | Video TBD | Notes TBD | [Grant Proposal working doc](https://paper.dropbox.com/doc/Gov-Group-Grant-Proposal--A402pAn8MQVQPIikglkCKxXXAQ-RN1efxJdptsRGVrJIbwou) |
+| 0020 | 2020-07-20 | 1730 UTC | [Agenda](https://github.com/stacksgov/pm/issues/82) | Video TBD | [Notes](https://github.com/stacksgov/pm/issues/82#issuecomment-661339707) | n/a |
+| 0019 | 2020-07-01 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/71) | [Video](https://youtu.be/h7iShriQ3q0) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-07-01-Meeting-0019) | @jcnelson [SIP-000 Slide Deck](https://docs.google.com/presentation/d/1k0VB5k5kVrSfib33yaq5n-ZGkrl1ueunqWj7eSKuVm8/edit#slide=id.g8b7270c087_0_48) |
+| 0018 | 2020-06-24 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/64) | [Video](https://youtu.be/o69zoNsP33w) | TBD | n/a |
 | 0017 | 2020-06-17 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/61) | [Video](https://youtu.be/om6o81aB4t8) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-06-17-Meeting-0017) | n/a |
 | 0016 | 2020-06-10 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/58) | [Video](https://youtu.be/7j_0Xb3t0ck) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-06-10-Meeting-0016) | TBD |
 | 0015 | 2020-06-03 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/50) | [Video](https://youtu.be/5dISVmdBe3g) | Notes [(TBD)](https://github.com/stacksgov/pm/issues/57) | TBD |
