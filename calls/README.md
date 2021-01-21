@@ -29,7 +29,7 @@ Below is a list of all prior completed calls and related resources.
 | 0030 | 2020-12-17 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/120) | Video TBD | Notes TBD | n/a |
 | 0029 | 2020-12-03 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/118) | Video TBD | Notes TBD | n/a |
 | 0028 | 2020-11-19 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/113) | Video TBD | Notes TBD | n/a |
-| 0027 | 2020-11-05 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/105) | Video TBD | Notes TBD | [healthy ecosystem building from Ryan](https://youtu.be/2Oy9LyVThlg)] |
+| 0027 | 2020-11-05 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/105) | Video TBD | Notes TBD | [healthy ecosystem building from Ryan](https://youtu.be/2Oy9LyVThlg) |
 | 0026 | 2020-10-22 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/99) | Video TBD | Notes TBD | n/a |
 | 0025 | 2020-10-08 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/98) | Video TBD | Notes TBD | [grant proposal](https://paper.dropbox.com/doc/Stacksgov-Grant-Proposal--A9FticUOo4gxWoWRzabNARnkAg-ke9qLunt5n7WwWwZTV56I) |
 | 0024 | 2020-09-23 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/96) | Video TBD | Notes TBD | n/a |
