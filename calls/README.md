@@ -29,7 +29,7 @@ Below is a list of all prior completed calls and related resources.
 | 0030 | 2020-12-17 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/120) | Video TBD | Notes TBD | n/a |
 | 0029 | 2020-12-03 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/118) | Video TBD | Notes TBD | n/a |
 | 0028 | 2020-11-19 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/113) | Video TBD | Notes TBD | n/a |
-| 0027 | 2020-11-05 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/105) | Video TBD | Notes TBD | [healthy ecosystem building from Ryan](https://www.youtube.com/watch?v=2Oy9LyVThlg)] |
+| 0027 | 2020-11-05 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/105) | Video TBD | Notes TBD | [healthy ecosystem building from Ryan](https://youtu.be/2Oy9LyVThlg)] |
 | 0026 | 2020-10-22 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/99) | Video TBD | Notes TBD | n/a |
 | 0025 | 2020-10-08 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/98) | Video TBD | Notes TBD | [grant proposal](https://paper.dropbox.com/doc/Stacksgov-Grant-Proposal--A9FticUOo4gxWoWRzabNARnkAg-ke9qLunt5n7WwWwZTV56I) |
 | 0024 | 2020-09-23 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/96) | Video TBD | Notes TBD | n/a |
@@ -61,14 +61,36 @@ Below is a list of all prior completed calls and related resources.
 
 The engineering team holds regular public meetings to discuss the [Stacks 2.0 blockchain implementation](https://github.com/blockstack/stacks-blockchain).
 
-| No   | Date       | Time | Video | Notes |
-| ---- | ---------- | ---- | ----- | ----- |
-| 0006 | 2020-06-28 | 1500 UTC | [Video](https://youtu.be/w5EEL-4EkHw) | TBD |
-| 0005 | 2020-06-22 | 1500 UTC | [Video](https://youtu.be/nR1ZhMBw_pg) | TBD |
-| 0004 | 2020-06-15 | 1500 UTC | [Video](https://youtu.be/6HWR4wPKtV0) | TBD |
-| 0003 | 2020-06-08 | 1500 UTC | [Video](https://youtu.be/byktpBjVYU0) | TBD |
-| 0002 | 2020-06-01 | 1500 UTC | [Video](https://youtu.be/ImUaan5kaU0) | TBD |
-| 0001 | 2020-05-26 | 1400 UTC | [Video](https://youtu.be/60JqCcCNEPg) | TBD |
+| No   | Date       | Time | Video |
+| ---- | ---------- | ---- | ----- |
+| 0028 | 2021-01-11 | 1500 UTC | [Video](https://youtu.be/3Av2E2AxQuM) |
+| 0027 | 2021-01-04 | 1500 UTC | [Video](https://youtu.be/OKr_WjJJZuU) |
+| 0026 | 2020-12-28 | 1500 UTC | [Video](https://youtu.be/L0ysOO5qLrE) |
+| 0025 | 2020-12-14 | 1500 UTC | [Video](https://youtu.be/7It0NWB7io0) |
+| 0024 | 2020-12-07 | 1500 UTC | [Video](https://youtu.be/3e0JjAD9ZFw) |
+| 0023 | 2020-11-30 | 1500 UTC | [Video](https://youtu.be/PYGACq-8FMQ) |
+| 0022 | 2020-11-23 | 1500 UTC | [Video](https://youtu.be/PIX4UOnX2lU) |
+| 0021 | 2020-11-16 | 1500 UTC | [Video](https://youtu.be/E4u7hS4vwRI) |
+| 0020 | 2020-11-09 | 1500 UTC | [Video](https://youtu.be/GcLpFYv_4GA) |
+| 0019 | 2020-11-02 | 1500 UTC | [Video](https://youtu.be/vgSzw2uWNkc) |
+| 0018 | 2020-10-26 | 1500 UTC | [Video](https://youtu.be/Pq0hH6XkHws) |
+| 0017 | 2020-10-19 | 1500 UTC | [Video](https://youtu.be/QZ36xI0q2-g) |
+| 0016 | 2020-10-05 | 1500 UTC | [Video](https://youtu.be/1JpROdyuhek) |
+| 0015 | 2020-09-15 | 1500 UTC | [Video](https://youtu.be/8y3tA0Ozemo) |
+| 0014 | 2020-08-31 | 1500 UTC | [Video](https://youtu.be/_t_J0fK7edM) |
+| 0013 | 2020-08-17 | 1500 UTC | [Video](https://youtu.be/2Y7pN068wBs) |
+| 0012 | 2020-08-10 | 1500 UTC | [Video](https://youtu.be/wTugvYIegNU) |
+| 0011 | 2020-08-03 | 1500 UTC | [Video](https://youtu.be/7DgB7vgInzo) |
+| 0010 | 2020-07-27 | 1500 UTC | [Video](https://youtu.be/3zWOG49Q0Cg) |
+| 0009 | 2020-07-20 | 1500 UTC | [Video](https://youtu.be/706jYJxCh70) |
+| 0008 | 2020-07-13 | 1500 UTC | [Video](https://youtu.be/9czYpwgt7CQ) |
+| 0007 | 2020-07-06 | 1500 UTC | [Video](https://youtu.be/M24ytGdb330) |
+| 0006 | 2020-06-29 | 1500 UTC | [Video](https://youtu.be/w5EEL-4EkHw) |
+| 0005 | 2020-06-22 | 1500 UTC | [Video](https://youtu.be/nR1ZhMBw_pg) |
+| 0004 | 2020-06-15 | 1500 UTC | [Video](https://youtu.be/6HWR4wPKtV0) |
+| 0003 | 2020-06-08 | 1500 UTC | [Video](https://youtu.be/byktpBjVYU0) |
+| 0002 | 2020-06-01 | 1500 UTC | [Video](https://youtu.be/ImUaan5kaU0) |
+| 0001 | 2020-05-26 | 1400 UTC | [Video](https://youtu.be/60JqCcCNEPg) |
 
 # General Resources
 
