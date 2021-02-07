@@ -24,8 +24,21 @@ Below is a list of all prior completed calls and related resources.
 
 | No   | Date       | Time | Agenda  | Video | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
-| 0019  | 2020-07-01 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/71) | [Video](https://youtu.be/h7iShriQ3q0) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-07-01-Meeting-0019) | @jcnelson [SIP-000 Slide Deck](https://docs.google.com/presentation/d/1k0VB5k5kVrSfib33yaq5n-ZGkrl1ueunqWj7eSKuVm8/edit#slide=id.g8b7270c087_0_48) |
-| 0018  | 2020-06-24 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/64) | [Video](https://youtu.be/o69zoNsP33w) | TBD | n/a |
+| 0032 | 2021-01-21 | 1900 UTC | [Agenda](https://github.com/stacksgov/pm/issues/127) | [Video](https://zoom.us/rec/share/vmuVAKokl4mkwKUyzxB0_C9g-U9q_RiQlNlbknFjx--YLmJqEFssZM651_8aMGHc.OppKVlyQ2ohxd5O4?startTime=1611256066000) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2021-01-21-Meeting-0032) | n/a |
+| 0031 | 2021-01-07 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/121) | [Video](https://zoom.us/rec/share/tg-Pnj7SMsNmrqOLml_eYC8XPKf-JieNmmc3JhS4yVdZ35q6DcMQsP1SOyBvn6yy.FjKNur6v8rktf-ez?startTime=1610039284000) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2021-01-07-Meeting-0031) | n/a |
+| 0030 | 2020-12-17 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/120) | [Video](https://zoom.us/rec/share/TNmVXxl2Jt7ScaRW2-ZF3riUGPNVZC6J_mNgZzldlO-mBAnrdmqojszntPPUWp2B.5LUH57-h4arZoTO6?startTime=1608225077000) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-12-17-Meeting-0030) | n/a |
+| 0029 | 2020-12-03 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/118) | [Video](https://zoom.us/rec/share/-fj-LpUWcADBWq7YDnSY6sp8q-A2t85J9eNNB9fAM-PpNukFkOFDqIuibelkcT-c.0VbIx0u6KjXqnrfK?startTime=1607015780000) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-12-03-Meeting-0029) | n/a |
+| 0028 | 2020-11-19 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/113) | [Video](https://zoom.us/rec/share/cLu5gCg9Y1OM7R7IAI2tTjQSOdhm7I2M562aVMbzj--UC5WwXZcPgJt__mqi9zMO.qLxH83WUiDv_uHM5?startTime=1605805553000) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-11-19-Meeting-0028) | n/a |
+| 0027 | 2020-11-05 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/105) | [Video](https://zoom.us/rec/share/S_utpOCP-Jec0rMxaEMznPLlXvvhZ3QNq9ig9H9NwX1pxeRTNwOUVum1qX25ndKH.UBdr8zJqFcefkyIP?startTime=1604596791000) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-11-05-Meeting-0027) | [healthy ecosystem building from Ryan](https://youtu.be/2Oy9LyVThlg) |
+| 0026 | 2020-10-22 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/99) | [Video](https://zoom.us/rec/share/CkiJSWRCMZ7xYsEAyegcRxspm3OJbGts9fD8ClzrVS_-IyH4UN_xAcjKx7Zjax2H.rv7wDYwNn5HOF5Ik?startTime=1603383041000) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-10-22-Meeting-0026) | n/a |
+| 0025 | 2020-10-08 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/98) | [Video](https://zoom.us/rec/share/3PjHmODhZaO3fyS9BWmi-HvVFsQ365M9BiYWtqpDehC8EuBjjZqF2MhUU7XBl18i.BmYm0cH5-maFfy5V?startTime=1602173238000) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-10-08-Meeting-0025) | [grant proposal](https://paper.dropbox.com/doc/Stacksgov-Grant-Proposal--A9FticUOo4gxWoWRzabNARnkAg-ke9qLunt5n7WwWwZTV56I) |
+| 0024 | 2020-09-24 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/96) | [Video](https://zoom.us/rec/share/qlQ2Px59nwLwa2iok2TNWSvhb5iOx8A-X1I9DMRPNHeTBmxlBPjfw4PYrogdC5A7.wUnFGgcjAIuxwcK8?startTime=1600963672000) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-09-24-Meeting-0024) | n/a |
+| 0023 | 2020-09-10 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/95) | [Video](https://zoom.us/rec/share/_Inpz9JcB5E6b1jSXQy9gIKoshxZYZwHGlIXjii0fwZnjV-KZmO5LjHbuKjR4MT6.8zEt3FJoOqzf3F0J?startTime=1599754074000) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-09-10-Meeting-0023) | n/a |
+| 0022 | 2020-08-20 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/94) | [Video](https://zoom.us/rec/share/59XzY7yNVxWZU6NxNAcvVxUVSh9hQK3T2WLoJngae427IvyCDXJg7mWuLd5TEvMx.7i_TOqqjSz-DbWIh?startTime=1597939590000) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-08-20-Meeting-0022) | n/a |
+| 0021 | 2020-08-06 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/84) | [Video](https://zoom.us/rec/share/PWi3LXiOwjbgnE67rcybAZDvGuy8OiGsISn8qyfOi2egctqpW0M1JO0ISWJ4sEMp.iE--bjUxDVjA1wuy?startTime=1596729974000) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-08-06-Meeting-0021) | [Grant Proposal working doc](https://paper.dropbox.com/doc/Gov-Group-Grant-Proposal--A402pAn8MQVQPIikglkCKxXXAQ-RN1efxJdptsRGVrJIbwou) |
+| 0020 | 2020-07-20 | 1730 UTC | [Agenda](https://github.com/stacksgov/pm/issues/82) | [Video](https://zoom.us/rec/share/OmlcC2ToG19kz2biPZ1kBOqZ7lI2Pl6xRMcFkUD8fpR_BWOGPAVNDoeQpD4z6-ZX.acw6Kcdjyi_baD2H?startTime=1595262966000) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-07-20-Meeting-0020) | n/a |
+| 0019 | 2020-07-01 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/71) | [Video](https://youtu.be/h7iShriQ3q0) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-07-01-Meeting-0019) | @jcnelson [SIP-000 Slide Deck](https://docs.google.com/presentation/d/1k0VB5k5kVrSfib33yaq5n-ZGkrl1ueunqWj7eSKuVm8/edit#slide=id.g8b7270c087_0_48) |
+| 0018 | 2020-06-24 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/64) | [Video](https://youtu.be/o69zoNsP33w) | TBD | n/a |
 | 0017 | 2020-06-17 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/61) | [Video](https://youtu.be/om6o81aB4t8) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-06-17-Meeting-0017) | n/a |
 | 0016 | 2020-06-10 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/58) | [Video](https://youtu.be/7j_0Xb3t0ck) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-06-10-Meeting-0016) | TBD |
 | 0015 | 2020-06-03 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/50) | [Video](https://youtu.be/5dISVmdBe3g) | Notes [(TBD)](https://github.com/stacksgov/pm/issues/57) | TBD |
@@ -48,14 +61,36 @@ Below is a list of all prior completed calls and related resources.
 
 The engineering team holds regular public meetings to discuss the [Stacks 2.0 blockchain implementation](https://github.com/blockstack/stacks-blockchain).
 
-| No   | Date       | Time | Video | Notes |
-| ---- | ---------- | ---- | ----- | ----- |
-| 0006 | 2020-06-28 | 1500 UTC | [Video](https://youtu.be/w5EEL-4EkHw) | TBD |
-| 0005 | 2020-06-22 | 1500 UTC | [Video](https://youtu.be/nR1ZhMBw_pg) | TBD |
-| 0004 | 2020-06-15 | 1500 UTC | [Video](https://youtu.be/6HWR4wPKtV0) | TBD |
-| 0003 | 2020-06-08 | 1500 UTC | [Video](https://youtu.be/byktpBjVYU0) | TBD |
-| 0002 | 2020-06-01 | 1500 UTC | [Video](https://youtu.be/ImUaan5kaU0) | TBD |
-| 0001 | 2020-05-26 | 1400 UTC | [Video](https://youtu.be/60JqCcCNEPg) | TBD |
+| No   | Date       | Time | Video |
+| ---- | ---------- | ---- | ----- |
+| 0028 | 2021-01-11 | 1500 UTC | [Video](https://youtu.be/3Av2E2AxQuM) |
+| 0027 | 2021-01-04 | 1500 UTC | [Video](https://youtu.be/OKr_WjJJZuU) |
+| 0026 | 2020-12-28 | 1500 UTC | [Video](https://youtu.be/L0ysOO5qLrE) |
+| 0025 | 2020-12-14 | 1500 UTC | [Video](https://youtu.be/7It0NWB7io0) |
+| 0024 | 2020-12-07 | 1500 UTC | [Video](https://youtu.be/3e0JjAD9ZFw) |
+| 0023 | 2020-11-30 | 1500 UTC | [Video](https://youtu.be/PYGACq-8FMQ) |
+| 0022 | 2020-11-23 | 1500 UTC | [Video](https://youtu.be/PIX4UOnX2lU) |
+| 0021 | 2020-11-16 | 1500 UTC | [Video](https://youtu.be/E4u7hS4vwRI) |
+| 0020 | 2020-11-09 | 1500 UTC | [Video](https://youtu.be/GcLpFYv_4GA) |
+| 0019 | 2020-11-02 | 1500 UTC | [Video](https://youtu.be/vgSzw2uWNkc) |
+| 0018 | 2020-10-26 | 1500 UTC | [Video](https://youtu.be/Pq0hH6XkHws) |
+| 0017 | 2020-10-19 | 1500 UTC | [Video](https://youtu.be/QZ36xI0q2-g) |
+| 0016 | 2020-10-05 | 1500 UTC | [Video](https://youtu.be/1JpROdyuhek) |
+| 0015 | 2020-09-15 | 1500 UTC | [Video](https://youtu.be/8y3tA0Ozemo) |
+| 0014 | 2020-08-31 | 1500 UTC | [Video](https://youtu.be/_t_J0fK7edM) |
+| 0013 | 2020-08-17 | 1500 UTC | [Video](https://youtu.be/2Y7pN068wBs) |
+| 0012 | 2020-08-10 | 1500 UTC | [Video](https://youtu.be/wTugvYIegNU) |
+| 0011 | 2020-08-03 | 1500 UTC | [Video](https://youtu.be/7DgB7vgInzo) |
+| 0010 | 2020-07-27 | 1500 UTC | [Video](https://youtu.be/3zWOG49Q0Cg) |
+| 0009 | 2020-07-20 | 1500 UTC | [Video](https://youtu.be/706jYJxCh70) |
+| 0008 | 2020-07-13 | 1500 UTC | [Video](https://youtu.be/9czYpwgt7CQ) |
+| 0007 | 2020-07-06 | 1500 UTC | [Video](https://youtu.be/M24ytGdb330) |
+| 0006 | 2020-06-29 | 1500 UTC | [Video](https://youtu.be/w5EEL-4EkHw) |
+| 0005 | 2020-06-22 | 1500 UTC | [Video](https://youtu.be/nR1ZhMBw_pg) |
+| 0004 | 2020-06-15 | 1500 UTC | [Video](https://youtu.be/6HWR4wPKtV0) |
+| 0003 | 2020-06-08 | 1500 UTC | [Video](https://youtu.be/byktpBjVYU0) |
+| 0002 | 2020-06-01 | 1500 UTC | [Video](https://youtu.be/ImUaan5kaU0) |
+| 0001 | 2020-05-26 | 1400 UTC | [Video](https://youtu.be/60JqCcCNEPg) |
 
 # General Resources
 
