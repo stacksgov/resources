@@ -24,6 +24,9 @@ Below is a list of all prior completed calls and related resources.
 
 | No   | Date       | Time | Agenda  | Video | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
+| 0036 | 2021-03-18 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/135) | Video TBD | Notes TBD | n/a |
+| 0035 | 2021-03-04 | 1800 UTC | [Agenda](https://github.com/stacksgov/pm/issues/134) | Video TBD | Notes TBD | n/a |
+| 0034 | 2021-02-18 | 1800 UTC | [Agenda](https://github.com/stacksgov/pm/issues/133) | Video TBD | Notes TBD | n/a |
 | 0033 | 2021-02-04 | 2000 UTC | [Agenda](https://github.com/stacksgov/pm/issues/128) | Video TBD | Notes TBD | n/a |
 | 0032 | 2021-01-21 | 1900 UTC | [Agenda](https://github.com/stacksgov/pm/issues/127) | [Video](https://youtu.be/IQLft2jWhWQ) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2021-01-21-Meeting-0032) | n/a |
 | 0031 | 2021-01-07 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/121) | [Video](https://youtu.be/URfvTEDnznM) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2021-01-07-Meeting-0031) | n/a |
@@ -39,7 +42,7 @@ Below is a list of all prior completed calls and related resources.
 | 0021 | 2020-08-06 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/84) | [Video](https://youtu.be/2RWjd7rvCEA) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-08-06-Meeting-0021) | [Grant Proposal working doc](https://paper.dropbox.com/doc/Gov-Group-Grant-Proposal--A402pAn8MQVQPIikglkCKxXXAQ-RN1efxJdptsRGVrJIbwou) |
 | 0020 | 2020-07-20 | 1730 UTC | [Agenda](https://github.com/stacksgov/pm/issues/82) | [Video](https://youtu.be/TKhnqyPVLLE) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-07-20-Meeting-0020) | n/a |
 | 0019 | 2020-07-01 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/71) | [Video](https://youtu.be/h7iShriQ3q0) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-07-01-Meeting-0019) | @jcnelson [SIP-000 Slide Deck](https://docs.google.com/presentation/d/1k0VB5k5kVrSfib33yaq5n-ZGkrl1ueunqWj7eSKuVm8/edit#slide=id.g8b7270c087_0_48) |
-| 0018 | 2020-06-24 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/64) | [Video](https://youtu.be/o69zoNsP33w) | TBD | n/a |
+| 0018 | 2020-06-24 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/64) | [Video](https://youtu.be/o69zoNsP33w) | Notes [(TBD)](https://stacksgov.github.io/resources/#/calls/notes/2020-06-24-Meeting-0018) | n/a |
 | 0017 | 2020-06-17 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/61) | [Video](https://youtu.be/om6o81aB4t8) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-06-17-Meeting-0017) | n/a |
 | 0016 | 2020-06-10 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/58) | [Video](https://youtu.be/7j_0Xb3t0ck) | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-06-10-Meeting-0016) | n/a |
 | 0015 | 2020-06-03 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/50) | [Video](https://youtu.be/5dISVmdBe3g) | Notes [(TBD)](https://github.com/stacksgov/pm/issues/57) | n/a |
@@ -55,8 +58,8 @@ Below is a list of all prior completed calls and related resources.
 | 0005 | 2020-03-25 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/16)  | [Video](https://youtu.be/gpw6byKPeIw)  | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-03-25-Meeting-0005)  | n/a  |
 | 0004 | 2020-03-18 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/9)  | [Video](https://youtu.be/u8lZsVFCFtc)  | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-03-18-Meeting-0004)  | @dantrevino [Presentation Slides](https://slides.com/dantrevino/blockstack-governance) / @blocks8 [Foundation Notes](https://docs.google.com/document/d/125MQTwpP9oooAUSES4U_HTcVJ02lVOR7A1IWEC3jh3g/edit?usp=sharing) |
 | 0003 | 2020-03-11 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/5) | [Video](https://youtu.be/d7cGndifjR0)  | [Notes](https://stacksgov.github.io/resources/#/calls/notes/2020-03-11-Meeting-0003)  | [Community Foundation Questions](https://github.com/stacksgov/pm/issues/11)  |
-| 0002 | 2020-03-02 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/3) | [Video](https://youtu.be/jAEHyq4TKeI)  | [Notes](https://github.com/stacksgov/pm/issues/3#issuecomment-593482885)  | n/a |
-| 0001 | 2020-02-13 | 1500 UTC | n/a | [Video](https://youtu.be/GilQ9qU4Sa0) | [TBD](https://github.com/stacksgov/resources/issues/16) | [Presentation Slides](https://stacksgov.github.io/resources/calls/20200213_community_call_001.pdf) |
+| 0002 | 2020-03-02 | 1400 UTC | [Agenda](https://github.com/stacksgov/pm/issues/3) | [Video](https://youtu.be/jAEHyq4TKeI)  | Notes [(TBD)](https://stacksgov.github.io/resources/#/calls/notes/2020-03-02-Meeting-0002)  | n/a |
+| 0001 | 2020-02-13 | 1500 UTC | n/a | [Video](https://youtu.be/GilQ9qU4Sa0) | Notes [(TBD)](https://stacksgov.github.io/resources/#/calls/notes/2020-02-13-Meeting-0001) | [Presentation Slides](https://stacksgov.github.io/resources/calls/20200213_community_call_001.pdf) |
 
 ## Engineering Team Meetings
 
