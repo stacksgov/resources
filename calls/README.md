@@ -65,8 +65,17 @@ Below is a list of all prior completed calls and related resources.
 
 The engineering team holds regular public meetings to discuss the [Stacks 2.0 blockchain implementation](https://github.com/blockstack/stacks-blockchain).
 
+
 | No   | Date       | Time | Video |
 | ---- | ---------- | ---- | ----- |
+| 0036 | 2021-03-08 | 1500 UTC | [Video](https://youtu.be/Vx0YoqinJwo) |
+| 0035 | 2021-03-01 | 1500 UTC | [Video](https://youtu.be/DDAIiKnskog) |
+| 0034 | 2021-02-22 | 1500 UTC | [Video](https://youtu.be/U8Zew3P9AhA) |
+| 0033 | 2021-02-15 | 1500 UTC | [Video](https://youtu.be/bBTkontMv3E) |
+| 0032 | 2021-02-09 | 1500 UTC | [Video](https://youtu.be/qMsInJuLQXQ) |
+| 0031 | 2021-02-02 | 1500 UTC | [Video](https://youtu.be/G0mE0CVZgCU) |
+| 0030 | 2021-01-25 | 1500 UTC | [Video](https://youtu.be/evXIKW87O6U) |
+| 0029 | 2021-01-19 | 1500 UTC | [Video](https://youtu.be/2sbbdsdn_UE) |
 | 0028 | 2021-01-11 | 1500 UTC | [Video](https://youtu.be/3Av2E2AxQuM) |
 | 0027 | 2021-01-04 | 1500 UTC | [Video](https://youtu.be/OKr_WjJJZuU) |
 | 0026 | 2020-12-28 | 1500 UTC | [Video](https://youtu.be/L0ysOO5qLrE) |
