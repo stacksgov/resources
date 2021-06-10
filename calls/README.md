@@ -24,7 +24,7 @@ Below is a list of all prior completed calls and related resources.
 
 | No   | Date       | Time | Agenda  | Video | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | --------- |
-| 0042 | 2021-06-06 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/146) | Video TBD | Notes TBD | n/a |
+| 0042 | 2021-06-10 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/146) | Video TBD | Notes TBD | n/a |
 | 0041 | 2021-05-27 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/144) | Video TBD | Notes TBD | n/a |
 | 0040 | 2021-05-13 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/143) | Video TBD | Notes TBD | n/a |
 | 0039 | 2021-04-29 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/141) | Video TBD | Notes TBD | n/a |
