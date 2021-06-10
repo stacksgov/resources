@@ -23,7 +23,13 @@ Below is a list of all prior completed calls and related resources.
 ## Governance Working Group
 
 | No   | Date       | Time | Agenda  | Video | Notes | Resources |
-| ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
+| ---- | ---------- | ---- | ------- | ----- | ----- | --------- |
+| 0042 | 2021-06-06 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/146) | Video TBD | Notes TBD | n/a |
+| 0041 | 2021-05-27 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/144) | Video TBD | Notes TBD | n/a |
+| 0040 | 2021-05-13 | 1700 UTC | [Agenda](https://github.com/stacksgov/pm/issues/143) | Video TBD | Notes TBD | n/a |
+| 0039 | 2021-04-29 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/141) | Video TBD | Notes TBD | n/a |
+| 0038 | 2021-04-15 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/140) | Video TBD | Notes TBD | n/a |
+| 0037 | 2021-04-01 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/139) | Video TBD | Notes TBD | n/a |
 | 0036 | 2021-03-18 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/135) | Video TBD | Notes TBD | n/a |
 | 0035 | 2021-03-04 | 1800 UTC | [Agenda](https://github.com/stacksgov/pm/issues/134) | Video TBD | Notes TBD | n/a |
 | 0034 | 2021-02-18 | 1800 UTC | [Agenda](https://github.com/stacksgov/pm/issues/133) | Video TBD | Notes TBD | n/a |
