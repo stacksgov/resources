@@ -24,6 +24,16 @@ Below is a list of all prior completed calls and related resources.
 
 | No   | Date       | Time | Agenda  | Video | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
+| 0061 | 2022-03-03 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/172) | Video TBD | Notes TBD | n/a |
+| 0060 | 2022-02-17 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/169) | [Video](https://youtu.be/6pEC85bZhcU) | Notes TBD | n/a |
+| 0059 | 2022-02-03 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/168) | [Video](https://youtu.be/I1eltRGmUXs) | Notes TBD | n/a |
+| 0058 | 2022-01-20 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/167) | [Video](https://youtu.be/SQFHGQ5yDhs) | Notes TBD | n/a |
+| 0057 | 2022-01-06 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/166) | [Video](https://youtu.be/V-YNggkIpdg) | Notes TBD | n/a |
+| 0056 | 2021-12-23 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/165) | Video TBD | Notes TBD | n/a |
+| 0055 | 2021-12-09 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/162) | [Video](https://youtu.be/AMDPxhKh3dk) | Notes TBD | n/a |
+| 0054 | 2021-11-25 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/160) | Video TBD | Notes TBD | n/a |
+| 0053 | 2021-11-11 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/159) | [Video](https://youtu.be/bgw3nyJ0dec) | Notes TBD | n/a |
+| 0052 | 2021-10-28 | 1500 UTC | [Agenda](https://github.com/stacksgov/pm/issues/158) | [Video](https://youtu.be/ha6WkXEeksc) | Notes TBD | n/a |
 | 0036 | 2021-03-18 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/135) | Video TBD | Notes TBD | n/a |
 | 0035 | 2021-03-04 | 1800 UTC | [Agenda](https://github.com/stacksgov/pm/issues/134) | Video TBD | Notes TBD | n/a |
 | 0034 | 2021-02-18 | 1800 UTC | [Agenda](https://github.com/stacksgov/pm/issues/133) | Video TBD | Notes TBD | n/a |
