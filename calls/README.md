@@ -24,6 +24,21 @@ Below is a list of all prior completed calls and related resources.
 
 | No   | Date       | Time | Agenda  | Video | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
+| 0077 | 2022-10-13 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/193) | [Video](https://youtu.be/obZHsTCJlIw) | Notes TBD | n/a |
+| 0076 | 2022-09-29 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/192) | [Video](https://youtu.be/n3aKtv3Uubk) | Notes TBD | n/a |
+| 0075 | 2022-09-15 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/191) | [Video](https://youtu.be/MbFf2LRugSw) | Notes TBD | n/a |
+| 0074 | 2022-09-01 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/190) | [Video](https://youtu.be/JXAjJMl16dU) | Notes TBD | n/a |
+| 0073 | 2022-08-18 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/189) | [Video](https://youtu.be/3QP1q3UfaLI) | Notes TBD | n/a |
+| 0072 | 2022-08-04 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/187) | [Video](https://youtu.be/CV6zX79-QQ0) | Notes TBD | n/a |
+| 0071 | 2022-07-21 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/186) | [Video](https://youtu.be/U956koqAoOI) | Notes TBD | n/a |
+| 0070 | 2022-07-07 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/185) | [Video](https://youtu.be/ngJW1_cs2Tg) | Notes TBD | n/a |
+| 0069 | 2022-06-23 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/184) | [Video](https://youtu.be/sUpXGV1CrXI) | Notes TBD | n/a |
+| 0068 | 2022-06-09 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/183) | [Video](https://youtu.be/l6rwGOtjGXc) | Notes TBD | n/a |
+| 0067 | 2022-05-26 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/182) | [Video](https://youtu.be/EFqJsX6YEbQ) | Notes TBD | n/a |
+| 0066 | 2022-05-12 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/180) | [Video](https://youtu.be/NLT1OJwCa0k) | Notes TBD | n/a |
+| 0065 | 2022-04-28 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/179) | [Video](https://youtu.be/NWvfaB1WGPc) | Notes TBD | n/a |
+| 0064 | 2022-04-14 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/176) | [Video](https://youtu.be/GmOuUXGEIeM) | Notes TBD | n/a |
+| 0063 | 2022-03-31 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/175) | [Video](https://youtu.be/089JKvOLt2A) | Notes TBD | n/a |
 | 0062 | 2022-03-17 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/174) | [Video](https://youtu.be/L_3ZxlBGakY) | Notes TBD | n/a |
 | 0061 | 2022-03-03 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/172) | Video TBD | Notes TBD | n/a |
 | 0060 | 2022-02-17 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/169) | [Video](https://youtu.be/6pEC85bZhcU) | Notes TBD | n/a |
