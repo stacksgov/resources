@@ -24,6 +24,8 @@ Below is a list of all prior completed calls and related resources.
 
 | No   | Date       | Time | Agenda  | Video | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
+| 0080 | 2022-12-08 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/196) | [Video](https://youtu.be/LpH1qBoz7iw) | Notes TBD | n/a |
+| 0079 | 2022-11-10 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/195) | canceled | Notes TBD | n/a |
 | 0078 | 2022-10-27 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/194) | [Video](https://youtu.be/ZN7RY3OYQlE) | Notes TBD | n/a |
 | 0077 | 2022-10-13 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/193) | [Video](https://youtu.be/obZHsTCJlIw) | Notes TBD | n/a |
 | 0076 | 2022-09-29 | 1600 UTC | [Agenda](https://github.com/stacksgov/pm/issues/192) | [Video](https://youtu.be/n3aKtv3Uubk) | Notes TBD | n/a |
