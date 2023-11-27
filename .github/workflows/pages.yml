@@ -36,14 +36,14 @@ jobs:
         run: gem install asciidoctor asciidoctor-pdf
       - name: Build html and pdf
         run: |
-          asciidoctor -D dist research/emissions-research/*.adoc
-          asciidoctor-pdf -D dist --theme research/emissions-research/pdf-theme.yml -a "!toc" research/emissions-research/*.adoc
+          asciidoctor -D research/emissions-research research/emissions-research/*.adoc
+          asciidoctor-pdf -D research/emissions-research --theme research/emissions-research/pdf-theme.yml -a "!toc" research/emissions-research/*.adoc
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: "dist"
+          path: "./"
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v2
