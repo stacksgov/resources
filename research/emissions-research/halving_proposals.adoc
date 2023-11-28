@@ -27,7 +27,7 @@ We’ve built products used by more than half of the Fortune 100, and we’ve fo
 [%always]
 <<<
 
-== Background*
+== *Background*
 === *Overview*
 [.normal]
 This report examines various potential adjustments to the Stacks mining emissions schedule, and their potential implications. In a prior, companion report, available here [[.mark]#NEED LINK#] (the “*Emissions Report*”), we analyzed the potential risks to the Stacks blockchain of the upcoming halving of its mining block reward as planned in or around January 2025. That report ultimately recommended the Stacks community consider an adjustment to the timing of the first halving, and this report proposes and analyzes specific alternative mining schedules the Stacks community might adopt.
