@@ -37,7 +37,7 @@ jobs:
       - name: Build html and pdf
         run: |
           asciidoctor -D research/emissions-research research/emissions-research/*.adoc
-          asciidoctor-pdf -D research/emissions-research --theme research/emissions-research/pdf-theme.yml -a "!toc" research/emissions-research/*.adoc
+          asciidoctor-pdf -D research/emissions-research --theme research/emissions-research/pdf-theme.yml -a toc research/emissions-research/*.adoc
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
